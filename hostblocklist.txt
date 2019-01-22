@@ -12,5 +12,6 @@
 0.0.0.0	t.net-ap19.stream
 0.0.0.0	net-ap19.stream
 0.0.0.0	w.clubf07.date
+0.0.0.0	clubf07.date
 0.0.0.0	net-app.stream
 0.0.0.0	patracking-ff.com
