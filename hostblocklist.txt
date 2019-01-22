@@ -2,6 +2,16 @@
 # copyright 2019 Jamie Futch
 # blocklist 
 
+#### facebook
+0.0.0.0 fbcdn.net
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 facebook.com
+0.0.0.0 fb.net
+0.0.0.0	fbcdn.com										
+####
+#### crap domains
+####
 0.0.0.0	gifts-for-you.cf
 0.0.0.0	mens-life-online.com
 0.0.0.0	mixie.media
@@ -18,10 +28,24 @@
 0.0.0.0	avnato.net
 0.0.0.0	w3.cdn.anvato.net
 0.0.0.0 vidtech.cbsinteractive.com
-0.0.0.0 fbcdn.net
-0.0.0.0 staticxx.facebook.com
 0.0.0.0 vidible.tv
 0.0.0.0 track.spots.im
 0.0.0.0	exelator.com
 0.0.0.0	ib.adnxs.com
 0.0.0.0	sdad.guru
+0.0.0.0	yudumay.com
+0.0.0.0	23ud82.com
+0.0.0.0	linkedstate.in
+0.0.0.0	site88.net
+0.0.0.0	com.mx
+0.0.0.0	comli.com
+0.0.0.0	bintangjb.com
+0.0.0.0	giftcardisrael.com
+0.0.0.0	peraltek.com
+0.0.0.0	now.topreadtoday.com
+0.0.0.0	airbnb.com												####	airbnb.com
+0.0.0.0	trafficadvance.net
+0.0.0.0	securybrowser.com
+0.0.0.0	mobileapptracking.com
+
+
