@@ -1,3 +1,5 @@
+#	https://github.com/jamiefutch/pi-hole-blocklist/blob/master/hostblocklist.txt
+# copyright 2019 Jamie Futch
 # blocklist 
 
 0.0.0.0	gifts-for-you.cf
