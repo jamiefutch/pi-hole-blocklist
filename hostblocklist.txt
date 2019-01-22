@@ -1,4 +1,4 @@
-#	https://github.com/jamiefutch/pi-hole-blocklist/blob/master/hostblocklist.txt
+# https://github.com/jamiefutch/pi-hole-blocklist/blob/master/hostblocklist.txt
 # copyright 2019 Jamie Futch
 # blocklist 
 
@@ -10,6 +10,7 @@
 0.0.0.0	patriotwealthreport.com
 0.0.0.0	securelnktrk.com
 0.0.0.0	t.net-ap19.stream
+0.0.0.0	net-ap19.stream
 0.0.0.0	w.clubf07.date
 0.0.0.0	net-app.stream
 0.0.0.0	patracking-ff.com
