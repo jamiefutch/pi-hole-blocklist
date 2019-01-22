@@ -57,6 +57,7 @@
 0.0.0.0	b-code.liadm.com
 0.0.0.0	liadm.com
 0.0.0.0	(^|\.)gvt2\.com$
+0.0.0.0	(^|\.)g00.cnet.com
 
 
 
