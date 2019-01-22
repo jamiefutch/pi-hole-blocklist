@@ -47,5 +47,18 @@
 0.0.0.0	trafficadvance.net
 0.0.0.0	securybrowser.com
 0.0.0.0	mobileapptracking.com
+0.0.0.0	infowarsmedia.com
+0.0.0.0	addstrap-ui.addshoppers.com
+0.0.0.0	publir.com
+0.0.0.0 adtrace.publir.com
+0.0.0.0	and.co.uk.102.122.2o7.net
+0.0.0.0	getsocial.io
+0.0.0.0	api.at.getsocial.io
+0.0.0.0	b-code.liadm.com
+0.0.0.0	liadm.com
+0.0.0.0	(^|\.)gvt2\.com$
+
+
+
 
 
