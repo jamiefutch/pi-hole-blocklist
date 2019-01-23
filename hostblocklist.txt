@@ -18,6 +18,10 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 cs41.wac.edgecastcdn.net                                # platform.twitter.com
 
+#### outbrain.com
+widgets.outbrain.com
+outbrain.com
+
 
 ####
 #### crap domains - that shouldn't be allowed to exist
