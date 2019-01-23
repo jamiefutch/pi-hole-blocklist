@@ -19,8 +19,8 @@
 0.0.0.0 cs41.wac.edgecastcdn.net                                # platform.twitter.com
 
 #### outbrain.com
-widgets.outbrain.com
-outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 outbrain.com
 
 
 ####
@@ -74,6 +74,8 @@ outbrain.com
 0.0.0.0	(^|\.)g00.cnet.com
 0.0.0.0 (^|\.)nbcudigitaladops.com
 0.0.0.0 nbcudigitaladops.com
+0.0.0.0 addthis.com
+0.0.0.0 s7.addthis.com
 
 
 
