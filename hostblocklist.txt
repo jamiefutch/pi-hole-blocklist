@@ -82,7 +82,8 @@
 0.0.0.0 nbcudigitaladops.com
 0.0.0.0 addthis.com
 0.0.0.0 s7.addthis.com
-
+0.0.0.0 scorecardresearch.com
+0.0.0.0 (^|\.)scorecardresearch.com
 
 
 
