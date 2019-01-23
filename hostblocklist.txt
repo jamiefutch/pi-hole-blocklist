@@ -12,8 +12,13 @@
 0.0.0.0 fb.net
 0.0.0.0	fbcdn.com		
 0.0.0.0 scontent.xx.fbcdn.net								
+
+
+#### twitter
+platform.twitter.com
+
 ####
-#### crap domains
+#### crap domains - that shouldn't be allowed to exist
 ####
 0.0.0.0	gifts-for-you.cf
 0.0.0.0	mens-life-online.com
