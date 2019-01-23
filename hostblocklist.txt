@@ -4,6 +4,11 @@
 
 #### facebook
 0.0.0.0 fbcdn.net
+0.0.0.0 (^|\.)fbcdn.net
+0.0.0.0 (^|\.)facebook.com
+0.0.0.0 (^|\.)facebook.net
+0.0.0.0 (^|\.)fb.com
+0.0.0.0 (^|\.)fb.net
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 fb.com
 0.0.0.0 facebook.com
