@@ -88,19 +88,19 @@
 ####
 #### Bullcrap sites that need to be excluded
 ####
-0.0.0.0	celebitchy.com
-0.0.0.0	eonline.com
-0.0.0.0	tmz.com
-0.0.0.0	dailymail.co.uk
-0.0.0.0	dailymail.com
-0.0.0.0	perezhilton.com
-0.0.0.0	blindgossip.com
-0.0.0.0	the-hollywood-gossip-res.cloudinary.com
-0.0.0.0	people.com
-0.0.0.0	people-com.cdn.ampproject.com
-0.0.0.0	vanityfair.com
-0.0.0.0	smetrics.people.com
-0.0.0.0	ew.com
+0.0.0.0	(^|\.)celebitchy.com
+0.0.0.0	(^|\.)eonline.com
+0.0.0.0	(^|\.)tmz.com
+0.0.0.0	(^|\.)dailymail.co.uk
+0.0.0.0	(^|\.)dailymail.com
+0.0.0.0	(^|\.)perezhilton.com
+0.0.0.0	(^|\.)blindgossip.com
+0.0.0.0	(^|\.)the-hollywood-gossip-res.cloudinary.com
+0.0.0.0	(^|\.)people.com
+0.0.0.0	(^|\.)people-com.cdn.ampproject.com
+0.0.0.0	(^|\.)vanityfair.com
+0.0.0.0	(^|\.)smetrics.people.com
+0.0.0.0	(^|\.)ew.com
 
 
 
