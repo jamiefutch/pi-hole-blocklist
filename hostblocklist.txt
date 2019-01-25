@@ -94,9 +94,37 @@
 0.0.0.0	veryield-malyst.com
 0.0.0.0	www.veryield-malyst.com
 
+####
+#### gd ads!
+####
 0.0.0.0	beap.gemini.yahoo.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0	pubmatic.com
+0.0.0.0	aka-cdn.adtechus.com
+0.0.0.0	adtechus.com
+0.0.0.0	ad.wsod.com
+0.0.0.0	wsod.com
+0.0.0.0	ad.wsodcdn.com
+0.0.0.0 wsodcdn.com
+0.0.0.0	s0.2mdn.net
+0.0.0.0	2mdn.net
+0.0.0.0	geo.moatads.com
+0.0.0.0	moatads.com
+0.0.0.0	smartasset.com
+0.0.0.0	pixel.adsafeprotected.com
+0.0.0.0	adsafeprotected.com
+0.0.0.0	c.betrad.com
+0.0.0.0	betrad.com
+0.0.0.0	cdn.adnxs.com
+0.0.0.0	adnxs.com
+0.0.0.0	cdn.doubleverify.com
+0.0.0.0	doubleverify.com
+0.0.0.0	c.evidon.com
+0.0.0.0	evidon.com
+0.0.0.0	cdn.digitru.st
+0.0.0.0	digitru.st
+
+
 
 ####
 #### Bullcrap sites that need to be excluded
