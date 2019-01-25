@@ -173,20 +173,62 @@
 0.0.0.0	ok.co.uk
 0.0.0.0	www.ok.co.uk
 
-popsugar.com
-www.popsugar.com
+0.0.0.0	popsugar.com
+0.0.0.0	www.popsugar.com
 
-radaronline.com
-www.radaronline.com
+0.0.0.0	radaronline.com
+0.0.0.0	www.radaronline.com
 
-thehollywoodgossip.com
-www.thehollywoodgossip.com
+0.0.0.0	thehollywoodgossip.com
+0.0.0.0	www.thehollywoodgossip.com
 
+0.0.0.0	www.usmagazine.com
+0.0.0.0	usmagazine.com
 
+0.0.0.0	www.celebsnow.co.uk
+0.0.0.0	celebsnow.co.uk
 
+0.0.0.0	hollywoodlife.com
+0.0.0.0	www.hollywoodlife.com
 
+0.0.0.0	celebrityinsider.org
+0.0.0.0	www.celebrityinsider.org
 
+0.0.0.0	justjared.com
+0.0.0.0	www.justjared.com
 
+0.0.0.0	elle.com
+0.0.0.0	www.elle.com
 
+0.0.0.0	bossip.com
+0.0.0.0	www.bossip.com
 
+0.0.0.0	jezebel.com
+0.0.0.0 www.jezebel.com
 
+0.0.0.0	jamesclear.com
+0.0.0.0	www.jamesclear.com
+
+0.0.0.0	etonline.com
+0.0.0.0 www.etonline.com
+
+0.0.0.0	thecut.com
+0.0.0.0	www.thecut.com
+
+0.0.0.0	www.celebdirtylaundry.com
+0.0.0.0	celebdirtylaundry.com
+
+0.0.0.0	www.lipstickalley.com
+0.0.0.0	lipstickalley.com
+
+0.0.0.0	wonderwall.com
+0.0.0.0	www.wonderwall.com
+
+0.0.0.0	www.ahlanlive.com
+0.0.0.0	ahlanlive.com
+
+0.0.0.0	gritdaily.com
+0.0.0.0	www.gritdaily.com
+
+0.0.0.0	nailbuzz.com
+0.0.0.0 www.nailbuzz.com
