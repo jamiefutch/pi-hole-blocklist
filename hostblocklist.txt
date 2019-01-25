@@ -232,3 +232,7 @@
 
 0.0.0.0	nailbuzz.com
 0.0.0.0 www.nailbuzz.com
+
+0.0.0.0	closeronline.co.uk
+0.0.0.0	www.closeronline.co.uk
+
