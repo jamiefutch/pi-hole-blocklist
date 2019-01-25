@@ -94,6 +94,8 @@
 0.0.0.0	veryield-malyst.com
 0.0.0.0	www.veryield-malyst.com
 
+0.0.0.0	beap.gemini.yahoo.com
+
 ####
 #### Bullcrap sites that need to be excluded
 ####
