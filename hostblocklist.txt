@@ -84,6 +84,15 @@
 0.0.0.0 s7.addthis.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 (^|\.)scorecardresearch.com
+0.0.0.0 ad-pixel.com
+0.0.0.0 feadrope.com
+0.0.0.0 www.feadrope.com
+0.0.0.0 feadrope.net
+0.0.0.0 www.feadrope.net
+0.0.0.0	feedrope.com
+0.0.0.0	www.feedrope.com
+0.0.0.0	veryield-malyst.com
+0.0.0.0	www.veryield-malyst.com
 
 ####
 #### Bullcrap sites that need to be excluded
@@ -138,6 +147,44 @@
 #0.0.0.0	(^|\.)ew.com
 0.0.0.0	ew.com
 0.0.0.0	www.ew.com
+
+0.0.0.0 www.cosmopolitan.com
+0.0.0.0 cosmopolitan.com
+
+0.0.0.0 celebuzz.com
+0.0.0.0 www.celebuzz.com
+
+0.0.0.0 dailystar.co.uk
+0.0.0.0 www.dailystar.co.uk
+
+0.0.0.0 dlisted.com
+0.0.0.0 www.dlisted.com
+
+0.0.0.0	glamour.com
+0.0.0.0	www.glamour.com
+
+0.0.0.0	gofugyourself.com
+0.0.0.0	www.gofugyourself.com
+
+
+0.0.0.0	ohnotheydidnt.live
+0.0.0.0	www.ohnotheydidnt.live
+
+0.0.0.0	ok.co.uk
+0.0.0.0	www.ok.co.uk
+
+popsugar.com
+www.popsugar.com
+
+radaronline.com
+www.radaronline.com
+
+thehollywoodgossip.com
+www.thehollywoodgossip.com
+
+
+
+
 
 
 
