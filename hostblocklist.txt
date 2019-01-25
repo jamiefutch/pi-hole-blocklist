@@ -119,11 +119,20 @@
 0.0.0.0	adnxs.com
 0.0.0.0	cdn.doubleverify.com
 0.0.0.0	doubleverify.com
+0.0.0.0	tps30.doubleverify.com
 0.0.0.0	c.evidon.com
 0.0.0.0	evidon.com
 0.0.0.0	cdn.digitru.st
 0.0.0.0	digitru.st
+0.0.0.0	pubmatic.com
+0.0.0.0	ads.pubmatic.com
 
+0.0.0.0	pagead2.googlesyndication.com					#### google crap
+0.0.0.0	pagead1.googlesyndication.com
+0.0.0.0	pagead.googlesyndication.com
+0.0.0.0	googlesyndication.com
+0.0.0.0	tpc.googlesyndication.com
+0.0.0.0	adservice.google.com
 
 
 ####
