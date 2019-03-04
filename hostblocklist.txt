@@ -283,3 +283,5 @@
 0.0.0.0 allure.com
 0.0.0.0 www.allure.com
 
+0.0.0.0 yelp.com
+0.0.0.0 www.yelp.com
