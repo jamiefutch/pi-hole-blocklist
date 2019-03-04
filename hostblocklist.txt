@@ -285,3 +285,4 @@
 
 0.0.0.0 yelp.com
 0.0.0.0 www.yelp.com
+0.0.0.0 m.yelp.com
