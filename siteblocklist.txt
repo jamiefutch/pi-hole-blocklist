@@ -1,0 +1,190 @@
+# https://github.com/jamiefutch/pi-hole-blocklist/blob/master/siteblocklist.txt
+# copyright 2019 Jamie Futch
+# blocklist of crap sites
+
+####
+#### Bullcrap sites that need to be excluded
+####
+
+#127.0.0.1	(^|\.)celebitchy.com
+#127.0.0.1	celebitchy.com
+#127.0.0.1	www.celebitchy.com
+
+#127.0.0.1	(^|\.)eonline.com
+127.0.0.1	eonline.com
+127.0.0.1	www.eonline.com
+
+#127.0.0.1	(^|\.)tmz.com
+#127.0.0.1	tmz.com
+#127.0.0.1	www.tmz.com
+
+#127.0.0.1	(^|\.)dailymail.co.uk
+#127.0.0.1	dailymail.co.uk
+#127.0.0.1	www.dailymail.co.uk
+
+#127.0.0.1	(^|\.)dailymail.com
+#127.0.0.1	dailymail.com
+#127.0.0.1	www.dailymail.com
+
+#127.0.0.1	(^|\.)perezhilton.com
+127.0.0.1	perezhilton.com
+127.0.0.1	www.perezhilton.com
+
+#127.0.0.1	(^|\.)blindgossip.com
+127.0.0.1	blindgossip.com
+127.0.0.1	www.blindgossip.com
+
+#127.0.0.1	(^|\.)the-hollywood-gossip-res.cloudinary.com
+127.0.0.1	the-hollywood-gossip-res.cloudinary.com
+127.0.0.1	www.the-hollywood-gossip-res.cloudinary.com
+
+#127.0.0.1	(^|\.)people.com
+127.0.0.1	people.com
+127.0.0.1	www.people.com
+
+127.0.0.1	(^|\.)people-com.cdn.ampproject.com
+127.0.0.1	people-com.cdn.ampproject.com
+
+#127.0.0.1	(^|\.)vanityfair.com
+127.0.0.1	vanityfair.com
+127.0.0.1	www.vanityfair.com
+
+#127.0.0.1	(^|\.)smetrics.people.com
+127.0.0.1	smetrics.people.com
+
+#127.0.0.1	(^|\.)ew.com
+127.0.0.1	ew.com
+127.0.0.1	www.ew.com
+
+127.0.0.1 www.cosmopolitan.com
+127.0.0.1 cosmopolitan.com
+
+127.0.0.1 celebuzz.com
+127.0.0.1 www.celebuzz.com
+
+127.0.0.1 dailystar.co.uk
+127.0.0.1 www.dailystar.co.uk
+
+127.0.0.1 dlisted.com
+127.0.0.1 www.dlisted.com
+
+127.0.0.1	glamour.com
+127.0.0.1	www.glamour.com
+
+127.0.0.1	gofugyourself.com
+127.0.0.1	www.gofugyourself.com
+
+
+127.0.0.1	ohnotheydidnt.live
+127.0.0.1	www.ohnotheydidnt.live
+
+127.0.0.1	ok.co.uk
+127.0.0.1	www.ok.co.uk
+
+127.0.0.1	popsugar.com
+127.0.0.1	www.popsugar.com
+
+127.0.0.1	radaronline.com
+127.0.0.1	www.radaronline.com
+
+127.0.0.1	thehollywoodgossip.com
+127.0.0.1	www.thehollywoodgossip.com
+
+127.0.0.1	www.usmagazine.com
+127.0.0.1	usmagazine.com
+
+127.0.0.1	www.celebsnow.co.uk
+127.0.0.1	celebsnow.co.uk
+
+127.0.0.1	hollywoodlife.com
+127.0.0.1	www.hollywoodlife.com
+
+127.0.0.1	celebrityinsider.org
+127.0.0.1	www.celebrityinsider.org
+
+127.0.0.1	justjared.com
+127.0.0.1	www.justjared.com
+
+127.0.0.1	elle.com
+127.0.0.1	www.elle.com
+
+127.0.0.1	bossip.com
+127.0.0.1	www.bossip.com
+
+127.0.0.1	jezebel.com
+127.0.0.1 www.jezebel.com
+
+127.0.0.1	jamesclear.com
+127.0.0.1	www.jamesclear.com
+
+127.0.0.1	etonline.com
+127.0.0.1 www.etonline.com
+
+127.0.0.1	thecut.com
+127.0.0.1	www.thecut.com
+
+127.0.0.1	www.celebdirtylaundry.com
+127.0.0.1	celebdirtylaundry.com
+
+127.0.0.1	www.lipstickalley.com
+127.0.0.1	lipstickalley.com
+
+127.0.0.1	wonderwall.com
+127.0.0.1	www.wonderwall.com
+
+127.0.0.1	www.ahlanlive.com
+127.0.0.1	ahlanlive.com
+
+127.0.0.1	gritdaily.com
+127.0.0.1	www.gritdaily.com
+
+127.0.0.1	nailbuzz.com
+127.0.0.1 www.nailbuzz.com
+
+127.0.0.1	closeronline.co.uk
+127.0.0.1	www.closeronline.co.uk
+
+127.0.0.1	pagesix.com
+127.0.0.1 www.pagesix.com
+
+127.0.0.1 allure.com
+127.0.0.1 www.allure.com
+
+127.0.0.1 yelp.com
+127.0.0.1 www.yelp.com
+127.0.0.1 m.yelp.com
+
+127.0.0.1 ad-pixel.com
+127.0.0.1 allurecosmeceuticals.com
+127.0.0.1 celebuzz.com
+127.0.0.1 dailystar.co.uk
+127.0.0.1 dlisted.com
+127.0.0.1 feadrope.com
+127.0.0.1 feadrope.net
+127.0.0.1 feedrope.com
+127.0.0.1 feedrope.net
+127.0.0.1 glamour.com
+127.0.0.1 gofugyourself.com
+127.0.0.1 lifesdailydeals.com
+127.0.0.1 m.yelp.com
+127.0.0.1 ohnotheydidnt.live
+127.0.0.1 oiycak.com
+127.0.0.1 ok.co.uk
+127.0.0.1 popsugar.com
+127.0.0.1 r1---sn-5uaeznrz.googlevideo.com
+127.0.0.1 r2---sn-5uaeznrz.googlevideo.com
+127.0.0.1 r3---sn-5uaezny6.googlevideo.com
+127.0.0.1 r3---sn-5ualdn76.googlevideo.com
+127.0.0.1 r4---sn-5ualdn76.googlevideo.com
+127.0.0.1 r5---sn-5ualdn76.googlevideo.com
+
+127.0.0.1 rs-stripe.com
+127.0.0.1 s4.reutersmedia.com
+127.0.0.1 s4.reutersmedia.net
+127.0.0.1 stripe.rs-stripe.com
+127.0.0.1 thehollywoodgossip.com
+127.0.0.1 veryield-malyst.com
+127.0.0.1 worldhealthlabs.com
+127.0.0.1 www.allurecosmeceuticals.com
+127.0.0.1 www.oiycak.com
+127.0.0.1 yelp.com
