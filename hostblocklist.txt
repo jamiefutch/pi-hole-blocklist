@@ -134,4 +134,5 @@
 127.0.0.1	tpc.googlesyndication.com
 127.0.0.1	adservice.google.com
 
+127.0.0.1   ((^)|(.))g01.msn.com    #### this is pretty aggressive and will likely block msn completely (fck em).
 
