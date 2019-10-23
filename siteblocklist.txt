@@ -112,13 +112,13 @@
 127.0.0.1	www.bossip.com
 
 127.0.0.1	jezebel.com
-127.0.0.1 www.jezebel.com
+127.0.0.1   www.jezebel.com
 
 127.0.0.1	jamesclear.com
 127.0.0.1	www.jamesclear.com
 
 127.0.0.1	etonline.com
-127.0.0.1 www.etonline.com
+127.0.0.1   www.etonline.com
 
 127.0.0.1	thecut.com
 127.0.0.1	www.thecut.com
@@ -139,13 +139,13 @@
 127.0.0.1	www.gritdaily.com
 
 127.0.0.1	nailbuzz.com
-127.0.0.1 www.nailbuzz.com
+127.0.0.1   www.nailbuzz.com
 
 127.0.0.1	closeronline.co.uk
 127.0.0.1	www.closeronline.co.uk
 
-127.0.0.1	pagesix.com
-127.0.0.1 www.pagesix.com
+#127.0.0.1	pagesix.com
+#127.0.0.1 www.pagesix.com
 
 127.0.0.1 allure.com
 127.0.0.1 www.allure.com

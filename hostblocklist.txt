@@ -137,3 +137,9 @@
 127.0.0.1   ((^)|(.))g01.msn.com    #### this is pretty aggressive and will likely block msn completely (fck em).
 127.0.0.1   g01.msn.com             #### this is pretty aggressive and will likely block msn completely (fck em).
 127.0.0.1  (^|\.)g01.msn.com
+
+###
+### sundry foreign domains
+###
+
+127.0.0.1   kepmr.zong.com.pk
