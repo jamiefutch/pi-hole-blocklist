@@ -16,7 +16,7 @@
 127.0.0.1 facebook.net
 127.0.0.1 connect.facebook.net
 127.0.0.1 fb.net
-127.0.0.1	fbcdn.com		
+127.0.0.1 fbcdn.com		
 127.0.0.1 scontent.xx.fbcdn.net								
 
 
@@ -28,6 +28,9 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 outbrain.com
 
+
+#### bitly
+127.0.0.1   bit.ly
 
 ####
 #### crap domains - that shouldn't be allowed to exist
@@ -126,6 +129,104 @@
 127.0.0.1	digitru.st
 127.0.0.1	pubmatic.com
 127.0.0.1	ads.pubmatic.com
+
+#########   2019-10-24
+###-------------------
+127.0.0.1   2o78stcvr.us
+127.0.0.1   dlusyjtxc.us
+127.0.0.1   iogg30mjs.us
+127.0.0.1   ehziyfvzt.us
+127.0.0.1   rxz1mo5gt.us
+127.0.0.1   centauro.com.br
+127.0.0.1   maayqlwb.drivefact.org
+127.0.0.1   drivefact.org
+127.0.0.1   48928bb9.us
+127.0.0.1   imgsystems.com
+127.0.0.1   ftr4egt2.us
+127.0.0.1   xvayxp9wc.us
+127.0.0.1   upm56nli5.us
+127.0.0.1   t.co                ### prolific spammer addrress imo
+127.0.0.1   v2rhwgxpa.us
+127.0.0.1   ryisnulpn.us
+127.0.0.1   calendly.com
+127.0.0.1   7hiLyWLkeYh5xyhWXCv7zHhjlddj4j.de
+127.0.0.1   help.TfrXkHsoYkJeJzC
+127.0.0.1   TfrXkHsoYkJeJzC     ### interesting address 
+127.0.0.1   7zfpVsrmq
+127.0.0.1   sc1zf7frb.us
+127.0.0.1   quhhr4p4j.us
+127.0.0.1   741.contactopportunities.com
+127.0.0.1   contactopportunities.com
+127.0.0.1   localtalent.host
+127.0.0.1   analyzedcase.com
+127.0.0.1   arkadiacompany.com
+127.0.0.1   closestsun.com
+127.0.0.1   podio.com
+127.0.0.1   4kt7le86y.us
+127.0.0.1   damejidlo.cz
+127.0.0.1   8dezcufhs.us
+127.0.0.1   gotsoccerebrate.space
+127.0.0.1   yandex.com
+127.0.0.1   yandex.ru
+127.0.0.1   zohomail.eu
+127.0.0.1   sweetmeet.me
+127.0.0.1   banprestore.com
+127.0.0.1   tsuruho.com
+127.0.0.1   unistrut.com
+127.0.0.1   masterweb.net
+127.0.0.1   crazy.co.jp
+127.0.0.1   netconstruct.co.uk
+127.0.0.1  atkore.com
+127.0.0.1   noardlikefryskewalden.nl
+127.0.0.1   radiotropicalvix.com.br
+127.0.0.1   gohoushi.net
+127.0.0.1   jandj.com
+127.0.0.1   karopapier.de
+127.0.0.1   chiefappliance.com
+127.0.0.1   defender-pro.com
+127.0.0.1   radomsko24.pl
+127.0.0.1   e-pies.eu
+127.0.0.1   diecezja.waw.pl
+127.0.0.1   german.lem.pl
+127.0.0.1   filmpoint.pl
+127.0.0.1   intaxo.pl
+127.0.0.1   hel.eu
+127.0.0.1   aktivist.pl
+127.0.0.1   alejakomiksu.com
+127.0.0.1   4liberty.eu
+127.0.0.1   naszosie.pl
+127.0.0.1   tvtomaszow.pl
+127.0.0.1   imperiumromanum.edu.pl
+127.0.0.1   dinoanimals.com
+127.0.0.1   fibaro.com
+127.0.0.1   ahuo.com
+127.0.0.1   boatrace-king.net
+127.0.0.1   worldpicom.com
+127.0.0.1   cantina-zushi.com
+127.0.0.1   hef.offerpartners.com
+127.0.0.1   offerpartners.com
+127.0.0.1   localhost.localdomain
+127.0.0.1   bhcbsa2cr.us
+127.0.0.1   zkslprlmr.us
+127.0.0.1   6y4.contactopportunities.com
+127.0.0.1   rescue.constructionsite.host
+127.0.0.1   constructionsite.host
+127.0.0.1   uw1xipadx.us
+127.0.0.1   wang7oogs.us
+127.0.0.1   42odp1ryl.us
+127.0.0.1   yddpcmqvt.us
+127.0.0.1   bwyjelmpw.us
+127.0.0.1   uzqrsximr.us
+127.0.0.1   p1ge5m21y.us
+127.0.0.1   jupisblih.us
+127.0.0.1   k5hwnoka1.us
+127.0.0.1   merzrjgrb.us
+127.0.0.1   qb4wk9gl5.us
+
+
+
+
+
 
 127.0.0.1	pagead2.googlesyndication.com					#### google crap
 127.0.0.1	pagead1.googlesyndication.com
