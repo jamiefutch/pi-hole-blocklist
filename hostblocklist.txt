@@ -19,6 +19,8 @@
 127.0.0.1 fbcdn.com		
 127.0.0.1 scontent.xx.fbcdn.net								
 
+#### amazon 
+127.0.0.1 amazon-adsystem.com
 
 #### twitter
 127.0.0.1 platform.twitter.com
@@ -28,9 +30,16 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 outbrain.com
 
-
 #### bitly
-127.0.0.1   bit.ly
+127.0.0.1  bit.ly
+
+
+127.0.0.1  sdad.guru
+127.0.0.1  adnxs.com
+127.0.0.1  nanovisor.io
+127.0.0.1  rubiconproject.com
+127.0.0.1  ads.rubiconproject.com
+127.0.0.1  d185y8fkx3tp2z.cloudfront.net
 
 ####
 #### crap domains - that shouldn't be allowed to exist
@@ -328,6 +337,35 @@
 127.0.0.1   pdr8-services-05v.prod.uFxJmaKf2.org
 127.0.0.1   adsnative.com
 127.0.0.1   0004970.xyz
+
+#########   2019-10-27  -- playing whackamole with spammers, sigh
+###-------------------
+### condidering blocking the entire gd .us tld - mostlly spam as far as i can tell
+127.0.0.1   syp.affpartners.com
+127.0.0.1   affpartners.com
+127.0.0.1   ow.ly
+127.0.0.1   jzfxg4dym.us
+127.0.0.1   w7xqwtd3k.us
+127.0.0.1   cuoustypz.us
+127.0.0.1   ujyksyicp.us
+127.0.0.1   3luyjbjsl.us
+127.0.0.1   npyphmu08.us
+127.0.0.1   lujmtltcx.us
+127.0.0.1   n8n2xgonx.us
+127.0.0.1   k3rba289lkly.lamgr.betivem.com
+127.0.0.1   betivem.com
+127.0.0.1   shujdmmrc.us
+127.0.0.1   ri2br6mi74r1np.wf85-1.bwchvkj.ml
+127.0.0.1   bwchvkj.ml
+127.0.0.1   xh9arjvwe.us
+127.0.0.1   ghjan66s5.us
+127.0.0.1   nilgmshdv.us
+127.0.0.1   kc9obhjve.us
+127.0.0.1   sampark.gov.in
+127.0.0.1   gov.in
+127.0.0.1   mwp0jr9oq.us
+127.0.0.1   suhsxjkgd.us
+
 
 
 
