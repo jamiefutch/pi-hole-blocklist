@@ -40,6 +40,7 @@
 127.0.0.1  rubiconproject.com
 127.0.0.1  ads.rubiconproject.com
 127.0.0.1  d185y8fkx3tp2z.cloudfront.net
+127.0.0.1  eproof.drudgereport.com    
 
 ####
 #### crap domains - that shouldn't be allowed to exist
