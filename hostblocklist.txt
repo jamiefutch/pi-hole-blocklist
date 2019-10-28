@@ -38,6 +38,11 @@
 127.0.0.1   www.google-analytics.com
 127.0.0.1   google-analytics.com
 
+#### salesforce - why is this domain showing up so much?
+127.0.0.1   salesforceliveagent.com
+127.0.0.1   d.la1-c1-frf.salesforceliveagent.com
+
+
 
 127.0.0.1  sdad.guru
 127.0.0.1  adnxs.com
