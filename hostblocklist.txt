@@ -42,6 +42,11 @@
 127.0.0.1   salesforceliveagent.com
 127.0.0.1   d.la1-c1-frf.salesforceliveagent.com
 
+#### inbox.guru
+127.0.0.1   www.inbox.guru
+127.0.0.1   inbox.guru
+127.0.0.1   c.inbox.guru
+
 
 
 127.0.0.1  sdad.guru
