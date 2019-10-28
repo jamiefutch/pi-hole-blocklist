@@ -34,6 +34,11 @@
 127.0.0.1  bit.ly
 
 
+#### google analytics
+127.0.0.1   www.google-analytics.com
+127.0.0.1   google-analytics.com
+
+
 127.0.0.1  sdad.guru
 127.0.0.1  adnxs.com
 127.0.0.1  nanovisor.io
