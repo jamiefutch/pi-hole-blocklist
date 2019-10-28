@@ -47,11 +47,14 @@
 127.0.0.1   inbox.guru
 127.0.0.1   c.inbox.guru
 
-
-
-127.0.0.1  sdad.guru
-127.0.0.1  adnxs.com
+####    nanovisor - whatever this is
+127.0.0.1  fcps.nanovisor
 127.0.0.1  nanovisor.io
+127.0.0.1  www.nanovisor.io
+127.0.0.1  sdad.guru    ## - seems tied in with nanovisor 
+127.0.0.1  www.sdad.guru    
+
+127.0.0.1  adnxs.com
 127.0.0.1  rubiconproject.com
 127.0.0.1  ads.rubiconproject.com
 127.0.0.1  d185y8fkx3tp2z.cloudfront.net
