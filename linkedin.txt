@@ -1,0 +1,5 @@
+#### this blocks linkedin.com
+#### that's right, i blocked that shat
+
+127.0.0.1   linkedin.com
+127.0.0.1   www.linkedin.com
