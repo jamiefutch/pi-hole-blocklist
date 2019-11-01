@@ -607,6 +607,16 @@
 127.0.0.1	tyvo.kffj.mxg
 127.0.0.1	kffj.mxg
 
+127.0.0.1	assets.ubembed.com
+127.0.0.1	ubembed.com
+127.0.0.1	experience.tinypass.com
+127.0.0.1	tinypass.com
+127.0.0.1	irsdn.net
+127.0.0.1	backend.irsdn.net
+127.0.0.1	infostream.secure.footprint.net
+127.0.0.1	footprint.net
+127.0.0.1	shop.pe
+
 
 #### i've asked to be removed several times... eff em
 127.0.0.1	n.performancebike.com
