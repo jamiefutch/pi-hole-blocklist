@@ -624,12 +624,15 @@
 127.0.0.1	tyvo.kffj.mxg
 127.0.0.1	kffj.mxg
 
+####    alex effing jones' dumpster fire of a site
+####    a total toolbag imo
 127.0.0.1	assets.ubembed.com
 127.0.0.1	ubembed.com
 127.0.0.1	experience.tinypass.com
 127.0.0.1	tinypass.com
 127.0.0.1	irsdn.net
 127.0.0.1	backend.irsdn.net
+127.0.0.1	cdn.irsdn.net 
 127.0.0.1	infostream.secure.footprint.net
 127.0.0.1	footprint.net
 127.0.0.1	shop.pe
@@ -637,6 +640,12 @@
 127.0.0.1   shopper.shop.pe	
 127.0.0.1   bytehighway.com
 127.0.0.1   bytehighway.net
+127.0.0.1   platform.cmmtr.com
+127.0.0.1   cmmtr.com
+
+
+127.0.0.1   pmcspy.files.wordpress.com
+
 
 
 #### i've asked to be removed several times... eff em
