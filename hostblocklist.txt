@@ -9,21 +9,33 @@
 
 
 #### facebook
-127.0.0.1 fbcdn.net
-127.0.0.1 (^|\.)fbcdn.net
-127.0.0.1 (^|\.)facebook.com
-127.0.0.1 (^|\.)facebook.net
-127.0.0.1 (^|\.)fb.com
-127.0.0.1 (^|\.)fb.net
-127.0.0.1 staticxx.facebook.com
-127.0.0.1 fb.com
-127.0.0.1 facebook.com
-127.0.0.1 www.facebook.com
-127.0.0.1 facebook.net
-127.0.0.1 connect.facebook.net
-127.0.0.1 fb.net
-127.0.0.1 fbcdn.com		
-127.0.0.1 scontent.xx.fbcdn.net								
+127.0.0.1   fbcdn.net
+127.0.0.1   (^|\.)fbcdn.net
+127.0.0.1   (^|\.)facebook.com
+127.0.0.1   (^|\.)facebook.net
+127.0.0.1   (^|\.)fb.com
+127.0.0.1   (^|\.)fb.net
+127.0.0.1   staticxx.facebook.com
+127.0.0.1   fb.com
+127.0.0.1   facebook.com
+127.0.0.1   www.facebook.com
+127.0.0.1   facebook.net
+127.0.0.1   connect.facebook.net
+127.0.0.1   fb.net
+127.0.0.1   fbcdn.com		
+127.0.0.1   scontent.xx.fbcdn.net	
+127.0.0.1   tfbnw.net
+127.0.0.1   fbsbx.com
+127.0.0.1   adtools.facebook.com
+127.0.0.1   analytics.facebook.com
+127.0.0.1   fb.me
+127.0.0.1   fb.us 
+127.0.0.1   m.me
+127.0.0.1   messenger.com 
+127.0.0.1   messenger.net
+
+
+
 
 #### amazon 
 127.0.0.1   amazon-adsystem.com
@@ -46,6 +58,7 @@
 #### google analytics
 127.0.0.1   www.google-analytics.com
 127.0.0.1   google-analytics.com
+
 
 #### salesforce - why is this domain showing up so much?
 127.0.0.1   salesforceliveagent.com
@@ -616,6 +629,8 @@
 127.0.0.1	infostream.secure.footprint.net
 127.0.0.1	footprint.net
 127.0.0.1	shop.pe
+127.0.0.1   addshoppers.s3.amazonaws.com	
+127.0.0.1   shopper.shop.pe	
 
 
 #### i've asked to be removed several times... eff em
