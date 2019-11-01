@@ -79,6 +79,10 @@
 ####    algolia
 127.0.0.1	telemetry.algolia.com
 
+####    disqus
+127.0.0.1	nfocom.disqus.com	
+127.0.0.1	disqus.com	
+
 127.0.0.1  adnxs.com
 127.0.0.1  rubiconproject.com
 127.0.0.1  ads.rubiconproject.com
@@ -631,6 +635,8 @@
 127.0.0.1	shop.pe
 127.0.0.1   addshoppers.s3.amazonaws.com	
 127.0.0.1   shopper.shop.pe	
+127.0.0.1   bytehighway.com
+127.0.0.1   bytehighway.net
 
 
 #### i've asked to be removed several times... eff em
