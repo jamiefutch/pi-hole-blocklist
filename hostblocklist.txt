@@ -2,6 +2,12 @@
 # copyright 2019 Jamie Futch
 # blocklist 
 
+#### nexteppe.com - becuase they can eff off
+127.0.0.1   nexteppe.com
+127.0.0.1   www.nexteppe.com
+
+
+
 #### facebook
 127.0.0.1 fbcdn.net
 127.0.0.1 (^|\.)fbcdn.net
@@ -20,15 +26,18 @@
 127.0.0.1 scontent.xx.fbcdn.net								
 
 #### amazon 
-127.0.0.1 amazon-adsystem.com
+127.0.0.1   amazon-adsystem.com
+127.0.0.1   c.amazon-adsystem.com
 
 #### twitter
-127.0.0.1 platform.twitter.com
-127.0.0.1 cs41.wac.edgecastcdn.net                                # platform.twitter.com
+127.0.0.1   platform.twitter.com
+127.0.0.1   cs41.wac.edgecastcdn.net                                # platform.twitter.com
+127.0.0.1   t.co                ### prolific spammer addrress imo
 
 #### outbrain.com
-127.0.0.1 widgets.outbrain.com
-127.0.0.1 outbrain.com
+127.0.0.1   widgets.outbrain.com
+127.0.0.1   outbrain.com
+127.0.0.1   amplify.outbrain.com
 
 #### bitly
 127.0.0.1  bit.ly
@@ -54,11 +63,20 @@
 127.0.0.1  sdad.guru    ## - seems tied in with nanovisor 
 127.0.0.1  www.sdad.guru    
 
+####    algolia
+127.0.0.1	telemetry.algolia.com
+
 127.0.0.1  adnxs.com
 127.0.0.1  rubiconproject.com
 127.0.0.1  ads.rubiconproject.com
 127.0.0.1  d185y8fkx3tp2z.cloudfront.net
-127.0.0.1  eproof.drudgereport.com    
+127.0.0.1  eproof.drudgereport.com 
+
+127.0.0.1  summerhamster.com
+127.0.0.1  www.summerhamster.com
+
+127.0.0.1  usabilla.com
+127.0.0.1  w.usabilla.com
 
 ####
 #### crap domains - that shouldn't be allowed to exist
@@ -173,7 +191,6 @@
 127.0.0.1   ftr4egt2.us
 127.0.0.1   xvayxp9wc.us
 127.0.0.1   upm56nli5.us
-127.0.0.1   t.co                ### prolific spammer addrress imo
 127.0.0.1   v2rhwgxpa.us
 127.0.0.1   ryisnulpn.us
 127.0.0.1   calendly.com
@@ -398,9 +415,203 @@
 127.0.0.1   61627g2f.us
 
 
+#########   2019-10-31  -- playing whackamole with spammers, sigh
+###-------------------
+127.0.0.1   9vckazte.us
+127.0.0.1   vvknx.emails.turbine.com
+127.0.0.1   sampark.gov.in
+127.0.0.1   euoqok9sadxc07zmswsuupgmcjmjyhc.info.inboxli.us
+127.0.0.1   inboxli.us
+127.0.0.1   dfyve0bnu.us
+127.0.0.1   j1tk9660.us
+127.0.0.1   gebvpscnfsyelp.com
+127.0.0.1   xxnclpeoglyelp.com
+127.0.0.1   jvia489o0h1z9n4nkfta.us
+127.0.0.1   digitaltelemarketinghub.com
+127.0.0.1   betterdetails.net
+127.0.0.1   DecadeCompany.com
+127.0.0.1   atmosphereoutside.com
+127.0.0.1   toptravelsagency.com
+127.0.0.1   8botruck.com
+127.0.0.1   kdptphhg-o.8botruck.com
+127.0.0.1   your-server.de
+127.0.0.1   startdedicated.com
+127.0.0.1   mydealz.de
+127.0.0.1   cecwkyiipqyelp.com
+127.0.0.1   urlz.fr  			### another dubious url shortner service
+127.0.0.1   dnchvzhtu.us
+127.0.0.1   oneubag.com
+127.0.0.1   cgyfoxoeg.us
+127.0.0.1   f1w9vn3pe.us
+127.0.0.1   mfz1finfg.us
+127.0.0.1   gld9754u.us
+127.0.0.1   pdr8-services-05v.prod.gld9754u.org
+127.0.0.1   enr2-mrelay-01.gld9754u.org
+127.0.0.1   gld9754u.org
+127.0.0.1   01vnzalygz5374zs6d9v.edu
+127.0.0.1   vm-jhaller1.olypen.com
+127.0.0.1   olypen.com
+127.0.0.1   academia.edu
+127.0.0.1   sweet-page.com
+127.0.0.1   vevida.net
+127.0.0.1   ltpri02.alpha-lt.net
+127.0.0.1   alpha-lt.net
+127.0.0.1   d3q1c9nvs58quz87bkg7.us
+127.0.0.1   ifba.edu.br
+127.0.0.1   y09djk2l.us
+127.0.0.1   clt1094496.benchurl.com
+127.0.0.1   benchurl.com
+127.0.0.1   475h1roab.us
+127.0.0.1   hqpovcy7v.us
+127.0.0.1   2w2crwgyb.us
+127.0.0.1   klpn0tpmz.us
+127.0.0.1   8dwmht2nk.us
+127.0.0.1   ehg3ri8aw.us
+127.0.0.1   tomwysocki.com
+127.0.0.1   rinaskitchenette.com
+127.0.0.1   mydhl.express.dhl
+127.0.0.1   express.dhl
+127.0.0.1   infosale.info
+127.0.0.1   isrvenvia.com
+127.0.0.1   mnklhiih.drivefact.org
+127.0.0.1   drivefact.org
+127.0.0.1   oxqvq5qfvqsymyqjis.drivefact.org
+127.0.0.1   g8a1fg7d1.us
+127.0.0.1   czgs56uwm5nq3ho9xdv6.us
+127.0.0.1   kantar-online.com
+127.0.0.1   de-ohio-kantar-web002.decipherinc.com
+127.0.0.1   decipherinc.com
+127.0.0.1   grpitsrv.com
+127.0.0.1   t2.ktrmr.com
+127.0.0.1   ktrmr.com
+127.0.0.1   urldefense.proofpoint.com
+127.0.0.1   proofpoint.com
+127.0.0.1   www.millwardbrown.com
+127.0.0.1   millwardbrown.com
+127.0.0.1   gbpmxisjt.us
+127.0.0.1   4203u562.us
+127.0.0.1   548gs21w.us
+127.0.0.1   pdr8-services-05v.prod.548gs21w.org
+127.0.0.1   548gs21w.org
+127.0.0.1   mysarewardss.net
+127.0.0.1   ParklandCompany.com
+127.0.0.1   pressureinside.com
+127.0.0.1   8jcpiq4vzln.ticket.st
+127.0.0.1   ticket.st
+127.0.0.1   acc083.sportinsider.info
+127.0.0.1   sportinsider.info
+127.0.0.1   t2iafj7xm.us
+127.0.0.1   ilpd7izf9.us
+127.0.0.1   6ppqe1icz.us
+127.0.0.1   dbfmjcsfw.us
+127.0.0.1   7pk0ogoix.us
+127.0.0.1   disparadoremm.com
+127.0.0.1   jtb.com
+127.0.0.1   26h.contactopportunities.com
+127.0.0.1   contactopportunities.com
+127.0.0.1   numerousinstant.press
+127.0.0.1   atym5mseu.us
+127.0.0.1   pdr8-services-05v.prod.Atym5mseU.org
+127.0.0.1   Atym5mseU.org
+127.0.0.1   qsywdo10c.us
+127.0.0.1   kcafu5yyc.us
+127.0.0.1   2b0hmxygc.us
+127.0.0.1   nsgjhhc7e.us
+127.0.0.1   etwnxfwk-o.8botruck.com
+127.0.0.1   0eh4hmprm.us
+127.0.0.1   sampark.gov.in
+127.0.0.1   jan-sampark.nic.in
+127.0.0.1   39wfg431.us
+127.0.0.1   darttags.net
+127.0.0.1   maaani.johnsonrichards.onmicrosoft.com
+127.0.0.1   activelypartnering.com
+127.0.0.1   interpretedbyservices.com
+127.0.0.1   yourfavoriteshoes.co.uk
+127.0.0.1   informationspeed.co.uk
+127.0.0.1   techniquescreatingradiant.com
+127.0.0.1   processfindcuriosity.org.uk
+127.0.0.1   bestresponseprocess.org.uk
+127.0.0.1   yourfavoriteresearchs.org.uk
+127.0.0.1   allfascinatingprocesses.org.uk
+127.0.0.1   thinkingtips.live
+127.0.0.1   developingideas.live
+127.0.0.1   littletimecleaning.name
+127.0.0.1   topmindfulchallenge.name
 
 
+#########   2019-11-01  -- playing whackamole with spammers, sigh
+###-------------------
+127.0.0.1   rescuetime.com ### because they spammed hacker news 
+127.0.0.1	4s5n2ti25j8yp8kzd3fldaj8w36zy9le.drivefact.org
+127.0.0.1	05wu0fsnx.us
+127.0.0.1	22q458s5.us
+127.0.0.1	dr8-services-05v.prod.22q458s5.org
+127.0.0.1	22q458s5.org
+127.0.0.1	b8xkfhnh11fkqfqewctx3atjwbvvyl.us
+127.0.0.1	9jad6spyf.us
+127.0.0.1	8iugzbckg.us
+127.0.0.1	sq0.contactopportunities.com
+127.0.0.1	allthewebnews.com
+127.0.0.1	84k.affpartners.com
+127.0.0.1	affpartners.com
+127.0.0.1	smtp.7liM4H7U6x.org
+127.0.0.1	7liM4H7U6x.org 
+127.0.0.1	hh2vr9k6.us
+127.0.0.1	flttiyfb.drivefact.org
+127.0.0.1	ndqgjw02x.us
+127.0.0.1	qckmgfx8j.us
+127.0.0.1	q2t9omil.us
+127.0.0.1	xjvaonwq6.us
+127.0.0.1	xbwg55e2d78tfcry9av7.us
+127.0.0.1	ytjijchew.us
+127.0.0.1	cfeig8etc.us
+127.0.0.1	rzr5vq76g.us
+127.0.0.1	dwicwvak0.us
+127.0.0.1	jeedvl2ex.us
+127.0.0.1	qyqngqqjr.us
+127.0.0.1	hq4lhy32p.us
+127.0.0.1	vtwmbhqmo.us
+127.0.0.1	vtwmbhqmo.org
+127.0.0.1	vrq8anekp.us
+127.0.0.1	vrq8anekp.org
+127.0.0.1	8rjrmkzhl.us
+127.0.0.1	ebgqapt2l.us
+127.0.0.1	e7ntsvx3j.us
+127.0.0.1	jtb.com
+127.0.0.1	7u2b2ycvr43ett.wed7-f7c1.ccnjgblm.tk
+127.0.0.1	ccnjgblm.tk
+127.0.0.1	mzrbm3c1uok07mg2bei5.us
+127.0.0.1	2emc2rmxg.us
+127.0.0.1	psmgvvzi.drivefact.org
+127.0.0.1	ugaot29sc.us
+127.0.0.1	5s3uifup2.us
+127.0.0.1	q1mlurrcx.us
+127.0.0.1	odplqblaz.us
+127.0.0.1	ct4lts7bi.us
+127.0.0.1	xva.contactopportunities.com
+127.0.0.1	nearhistoric.com
+127.0.0.1	jwfiq1tu5.us
+127.0.0.1	v2dyzem4c.us
+127.0.0.1	4fcn1zprn.us
+127.0.0.1	szogtoj7t.us
+127.0.0.1	rq1coudrk.us
+127.0.0.1	4pzaz0j1f.us
+127.0.0.1	dfehdqpor.us
+127.0.0.1	ezjuiy4s.us
+127.0.0.1	educationresourcesforyou.com
+127.0.0.1	ekmqibvri.us
+127.0.0.1	v7otkoimg.us
+127.0.0.1	rqsudmpum.us
+127.0.0.1	rm0m5nqhl.us
+127.0.0.1	0c8fnwuaa.us
+127.0.0.1	tyvo.kffj.mxg
+127.0.0.1	kffj.mxg
 
+
+#### i've asked to be removed several times... eff em
+127.0.0.1	n.performancebike.com
+127.0.0.1	performancebike.com
+127.0.0.1	amain.com
 
 127.0.0.1	pagead2.googlesyndication.com					#### google crap
 127.0.0.1	pagead1.googlesyndication.com
