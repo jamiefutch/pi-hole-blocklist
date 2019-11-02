@@ -675,6 +675,7 @@
 127.0.0.1	cdn.irsdn.net 
 127.0.0.1	infostream.secure.footprint.net
 127.0.0.1	footprint.net
+127.0.0.1   internal.footprint.net
 127.0.0.1	shop.pe
 127.0.0.1   addshoppers.s3.amazonaws.com
 127.0.0.1   addstrap-ui.addshoppers.com	
