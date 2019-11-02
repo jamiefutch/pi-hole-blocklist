@@ -35,7 +35,12 @@
 127.0.0.1   messenger.net
 
 
+#### scorecardresearch.com
+127.0.0.1   sb.scorecardresearch.com
+127.0.0.1   scorecardresearch.com
 
+127.0.0.1   reveal.apxy.io
+127.0.0.1   apxy.io	
 
 #### amazon 
 127.0.0.1   amazon-adsystem.com
@@ -45,6 +50,9 @@
 127.0.0.1   platform.twitter.com
 127.0.0.1   cs41.wac.edgecastcdn.net                                # platform.twitter.com
 127.0.0.1   t.co                ### prolific spammer addrress imo
+127.0.0.1   twitter.com
+127.0.0.1   www.twitter.com
+
 
 #### outbrain.com
 127.0.0.1   widgets.outbrain.com
@@ -82,6 +90,36 @@
 ####    disqus
 127.0.0.1	nfocom.disqus.com	
 127.0.0.1	disqus.com	
+
+127.0.0.1   cdn.cookielaw.org
+127.0.0.1   smetrics.cnn.com
+127.0.0.1   edge.api.brightcove.com
+127.0.0.1   manifest.prod.boltdns.net
+127.0.0.1   boltdns.net
+127.0.0.1   secure.widget.cloud.opta.net
+127.0.0.1   opta.net
+127.0.0.1   www.npttech.com
+127.0.0.1   npttech.com
+
+
+####    gaggle.com -- creepy mofo's
+127.0.0.1  gaggle.com
+127.0.0.1  gaggle.net
+127.0.0.1  www.gaggle.com
+127.0.0.1  www.gaggle.net
+127.0.0.1  apps.gaggle.com
+127.0.0.1  apps.gaggle.net
+127.0.0.1  fast.wistia.com
+127.0.0.1  distillery.wistia.com
+127.0.0.1  pipedream.wistia.com
+127.0.0.1  wistia.com
+127.0.0.1  widget-mediator.zopim.com
+127.0.0.1  static.zdassets.com
+127.0.0.1  ekr.zdassets.com
+127.0.0.1  zdassets.com
+127.0.0.1  widget-mediator.zopim.com
+127.0.0.1  zopim.com
+
 
 127.0.0.1  adnxs.com
 127.0.0.1  rubiconproject.com
@@ -630,18 +668,23 @@
 127.0.0.1	ubembed.com
 127.0.0.1	experience.tinypass.com
 127.0.0.1	tinypass.com
+127.0.0.1   buy.tinypass.com
+127.0.0.1   cdn.tinypass.com
 127.0.0.1	irsdn.net
 127.0.0.1	backend.irsdn.net
 127.0.0.1	cdn.irsdn.net 
 127.0.0.1	infostream.secure.footprint.net
 127.0.0.1	footprint.net
 127.0.0.1	shop.pe
-127.0.0.1   addshoppers.s3.amazonaws.com	
+127.0.0.1   addshoppers.s3.amazonaws.com
+127.0.0.1   addstrap-ui.addshoppers.com	
 127.0.0.1   shopper.shop.pe	
 127.0.0.1   bytehighway.com
 127.0.0.1   bytehighway.net
 127.0.0.1   platform.cmmtr.com
 127.0.0.1   cmmtr.com
+127.0.0.1   dashjs.org
+127.0.0.1   cdn.dashjs.org
 
 
 127.0.0.1   pmcspy.files.wordpress.com
