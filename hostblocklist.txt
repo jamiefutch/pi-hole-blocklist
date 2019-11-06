@@ -6,6 +6,10 @@
 127.0.0.1   nexteppe.com
 127.0.0.1   www.nexteppe.com
 
+#### inventorycc.com - becuase they can eff off too
+127.0.0.1   inventorycc.com
+127.0.0.1   www.inventorycc.com
+
 
 
 #### facebook
@@ -61,11 +65,6 @@
 
 #### bitly
 127.0.0.1  bit.ly
-
-
-#### google analytics
-127.0.0.1   www.google-analytics.com
-127.0.0.1   google-analytics.com
 
 
 #### salesforce - why is this domain showing up so much?
@@ -132,6 +131,29 @@
 
 127.0.0.1  usabilla.com
 127.0.0.1  w.usabilla.com
+
+####    msn
+127.0.0.1   ((^)|(.))g01.msn.com    #### this is pretty aggressive and will likely block msn completely (fck em).
+127.0.0.1   g01.msn.com             #### this is pretty aggressive and will likely block msn completely (fck em).
+127.0.0.1  (^|\.)g01.msn.com
+
+
+####    google
+127.0.0.1	pagead2.googlesyndication.com					#### google crap
+127.0.0.1	pagead1.googlesyndication.com
+127.0.0.1	pagead.googlesyndication.com
+127.0.0.1	googlesyndication.com
+127.0.0.1	tpc.googlesyndication.com
+127.0.0.1	adservice.google.com
+
+#### google analytics
+127.0.0.1   www.google-analytics.com
+127.0.0.1   google-analytics.com
+
+#### ask.com
+127.0.0.1   ask.com
+127.0.0.1   www.ask.com
+
 
 ####
 #### crap domains - that shouldn't be allowed to exist
@@ -231,436 +253,18 @@
 127.0.0.1	pubmatic.com
 127.0.0.1	ads.pubmatic.com
 
-#########   2019-10-24
-###-------------------
-127.0.0.1   2o78stcvr.us
-127.0.0.1   dlusyjtxc.us
-127.0.0.1   iogg30mjs.us
-127.0.0.1   ehziyfvzt.us
-127.0.0.1   rxz1mo5gt.us
-127.0.0.1   centauro.com.br
-127.0.0.1   maayqlwb.drivefact.org
-127.0.0.1   drivefact.org
-127.0.0.1   48928bb9.us
-127.0.0.1   imgsystems.com
-127.0.0.1   ftr4egt2.us
-127.0.0.1   xvayxp9wc.us
-127.0.0.1   upm56nli5.us
-127.0.0.1   v2rhwgxpa.us
-127.0.0.1   ryisnulpn.us
-127.0.0.1   calendly.com
-127.0.0.1   7hiLyWLkeYh5xyhWXCv7zHhjlddj4j.de
-127.0.0.1   help.TfrXkHsoYkJeJzC
-127.0.0.1   TfrXkHsoYkJeJzC     ### interesting address 
-127.0.0.1   7zfpVsrmq
-127.0.0.1   sc1zf7frb.us
-127.0.0.1   quhhr4p4j.us
-127.0.0.1   741.contactopportunities.com
-127.0.0.1   contactopportunities.com
-127.0.0.1   localtalent.host
-127.0.0.1   analyzedcase.com
-127.0.0.1   arkadiacompany.com
-127.0.0.1   closestsun.com
-127.0.0.1   podio.com
-127.0.0.1   4kt7le86y.us
-127.0.0.1   damejidlo.cz
-127.0.0.1   8dezcufhs.us
-127.0.0.1   gotsoccerebrate.space
-127.0.0.1   yandex.com
-127.0.0.1   yandex.ru
-127.0.0.1   zohomail.eu
-127.0.0.1   sweetmeet.me
-127.0.0.1   banprestore.com
-127.0.0.1   tsuruho.com
-127.0.0.1   unistrut.com
-127.0.0.1   masterweb.net
-127.0.0.1   crazy.co.jp
-127.0.0.1   netconstruct.co.uk
-127.0.0.1  atkore.com
-127.0.0.1   noardlikefryskewalden.nl
-127.0.0.1   radiotropicalvix.com.br
-127.0.0.1   gohoushi.net
-127.0.0.1   jandj.com
-127.0.0.1   karopapier.de
-127.0.0.1   chiefappliance.com
-127.0.0.1   defender-pro.com
-127.0.0.1   radomsko24.pl
-127.0.0.1   e-pies.eu
-127.0.0.1   diecezja.waw.pl
-127.0.0.1   german.lem.pl
-127.0.0.1   filmpoint.pl
-127.0.0.1   intaxo.pl
-127.0.0.1   hel.eu
-127.0.0.1   aktivist.pl
-127.0.0.1   alejakomiksu.com
-127.0.0.1   4liberty.eu
-127.0.0.1   naszosie.pl
-127.0.0.1   tvtomaszow.pl
-127.0.0.1   imperiumromanum.edu.pl
-127.0.0.1   dinoanimals.com
-127.0.0.1   fibaro.com
-127.0.0.1   ahuo.com
-127.0.0.1   boatrace-king.net
-127.0.0.1   worldpicom.com
-127.0.0.1   cantina-zushi.com
-127.0.0.1   hef.offerpartners.com
-127.0.0.1   offerpartners.com
-127.0.0.1   localhost.localdomain
-127.0.0.1   bhcbsa2cr.us
-127.0.0.1   zkslprlmr.us
-127.0.0.1   6y4.contactopportunities.com
-127.0.0.1   rescue.constructionsite.host
-127.0.0.1   constructionsite.host
-127.0.0.1   uw1xipadx.us
-127.0.0.1   wang7oogs.us
-127.0.0.1   42odp1ryl.us
-127.0.0.1   yddpcmqvt.us
-127.0.0.1   bwyjelmpw.us
-127.0.0.1   uzqrsximr.us
-127.0.0.1   p1ge5m21y.us
-127.0.0.1   jupisblih.us
-127.0.0.1   k5hwnoka1.us
-127.0.0.1   merzrjgrb.us
-127.0.0.1   qb4wk9gl5.us
 
 
-#########   2019-10-25  -- playing whackamole with spammers, sigh
-###-------------------
-127.0.0.1   esinfomedia.com     ### spammer
-127.0.0.1   digitaldirectleads.com
-127.0.0.1   www.digitaldirectleads.com
-127.0.0.1   ofelevenmedia.com
-127.0.0.1   www.ofelevenmedia.com
-127.0.0.1   azbo.net
-127.0.0.1   us19.azbo.net
-127.0.0.1   nhkigcxwt.us
-127.0.0.1   gdw39tpdv.us
-127.0.0.1   e9ik3bhoz.us
-127.0.0.1   z6lksk3iv.us
-127.0.0.1   hlelosoip.us
-127.0.0.1   ax128r8nn64fnk.w1964-1.pcd6lrv.cf
-127.0.0.1   iirubkyul.us
-127.0.0.1   zfvbhbpwf.us
-127.0.0.1   hcbos1kbq.us
-127.0.0.1   qda07qok6.us
-127.0.0.1   hzghbce92.us
-127.0.0.1   wqzrt1vxe.us
-127.0.0.1   wbx88pfjl.us
-127.0.0.1   ahzv5gzhf.us
-127.0.0.1   sqzaaq2q6.us
-127.0.0.1   xnxcasouk.us
-127.0.0.1   tufy2tg8e.us
-127.0.0.1   mzmdxgtjhprj81labe.drivefact.org
-127.0.0.1   backpackersworld.com
-127.0.0.1   aeroshadeco.com
-127.0.0.1   kewarra.com
-127.0.0.1   tasmaniatours.com.au
-127.0.0.1   shedsnhomes.com.au
-127.0.0.1   thewoolshed.com.au
-127.0.0.1   silsmaria.jp
-127.0.0.1   wavelength.com.au
-127.0.0.1   cairnsdining.com
-127.0.0.1   banprestore.com
-127.0.0.1   pass-scheme.org.uk
-127.0.0.1   digcompass.ca
-127.0.0.1   appleyardflowers.com
-127.0.0.1   tourismpalmcove.com
-127.0.0.1   cera.org.au
-127.0.0.1   workgateways.com
-127.0.0.1   jobaroo.com
-127.0.0.1   i-comsoftware.com
-127.0.0.1   hunterindustries.com
-127.0.0.1   e-aidem.com
-127.0.0.1   purposechurch.com
-127.0.0.1   stationspast.net
-127.0.0.1   kst.sk
-127.0.0.1   leeuwinestate.com.au
-127.0.0.1   mobilityeye.com
-127.0.0.1   smallville.com.au
-127.0.0.1   morrissey-solo.com
-127.0.0.1   onyasai.com
-127.0.0.1   hitozuma-club-k.com
-127.0.0.1   atkore.com
-127.0.0.1   tsuruho.com
-127.0.0.1   unistrut.com
-127.0.0.1   masterweb.net
-127.0.0.1   netconstruct.co.uk
-127.0.0.1   radiotropicalvix.com.br
-127.0.0.1   gohoushi.net
-127.0.0.1   4q101zpe.us
-127.0.0.1   pdr8-services-05v.prod.4q101zpe.org
-127.0.0.1   amazonses.com
-127.0.0.1   if0wear.fr
-127.0.0.1   weightlosspills.host
-127.0.0.1   gardeningtypes.com
-127.0.0.1   choosegardening.com
-127.0.0.1   plantsornamental.com
-127.0.0.1   wtxqym8j.us
-127.0.0.1   iconicperception.com
-127.0.0.1   internetcapability.com
-127.0.0.1   climateduration.com
-127.0.0.1   outsidepressing.com
-127.0.0.1   qq2ba9hkc4zdbu.w62d-f103.gjfcl7nc.ml
-127.0.0.1   gjfcl7nc.ml
-127.0.0.1   sallna.com
-127.0.0.1   392owoye.us
-127.0.0.1   dxwgzpuix.us
-127.0.0.1   pjuopt7gg.us
-127.0.0.1   y68xfxnna.us
-127.0.0.1   p9htpixsm.us
-127.0.0.1   ca432py5.us
-127.0.0.1   analyticsoutsource.com
-127.0.0.1   planfordiet.com
-127.0.0.1   protectyoursecret.com
-127.0.0.1   beginningcreation.com
-127.0.0.1   orchestrationplatform.com
-127.0.0.1   differentconversations.com
-127.0.0.1   fy9hjundv.us
-127.0.0.1   3mjfj426.us
-127.0.0.1   pdr8-services-05v.prod.3mjfj426.org
-127.0.0.1   wekeovyqo.us
-127.0.0.1   pdr8-services-05v.prod.WEkEOVYQo.org
-127.0.0.1   pdr8-services-05v.prod.Q84981I8.org
-127.0.0.1   Q84981I8.org
-127.0.0.1   refzk69iz.us
-127.0.0.1   pdr8-services-05v.prod.REfzk69iZ.org
-127.0.0.1   ufxjmakf2.us
-127.0.0.1   pdr8-services-05v.prod.uFxJmaKf2.org
-127.0.0.1   adsnative.com
-127.0.0.1   0004970.xyz
-
-#########   2019-10-27  -- playing whackamole with spammers, sigh
-###-------------------
-### condidering blocking the entire gd .us tld - mostlly spam as far as i can tell
-127.0.0.1   syp.affpartners.com
-127.0.0.1   affpartners.com
-127.0.0.1   ow.ly
-127.0.0.1   jzfxg4dym.us
-127.0.0.1   w7xqwtd3k.us
-127.0.0.1   cuoustypz.us
-127.0.0.1   ujyksyicp.us
-127.0.0.1   3luyjbjsl.us
-127.0.0.1   npyphmu08.us
-127.0.0.1   lujmtltcx.us
-127.0.0.1   n8n2xgonx.us
-127.0.0.1   k3rba289lkly.lamgr.betivem.com
-127.0.0.1   betivem.com
-127.0.0.1   shujdmmrc.us
-127.0.0.1   ri2br6mi74r1np.wf85-1.bwchvkj.ml
-127.0.0.1   bwchvkj.ml
-127.0.0.1   xh9arjvwe.us
-127.0.0.1   ghjan66s5.us
-127.0.0.1   nilgmshdv.us
-127.0.0.1   kc9obhjve.us
-127.0.0.1   sampark.gov.in
-127.0.0.1   gov.in
-127.0.0.1   mwp0jr9oq.us
-127.0.0.1   suhsxjkgd.us
-127.0.0.1   zdu9zdqca.us
-127.0.0.1   lldbqlw9c.us
-127.0.0.1   pzpxbxt33.us
-127.0.0.1   5reaaj4zv.us
-127.0.0.1   l1z2e6kgf.us
-127.0.0.1   r4ehfodo2.us
-127.0.0.1   1lbhf9140.us
-127.0.0.1   b6e8aqqk1.us
-127.0.0.1   a0wnzyssp.us
-127.0.0.1   nee8xd2fo.us
-127.0.0.1   ot6agcfym.us
-127.0.0.1   61627g2f.us
 
 
-#########   2019-10-31  -- playing whackamole with spammers, sigh
-###-------------------
-127.0.0.1   9vckazte.us
-127.0.0.1   vvknx.emails.turbine.com
-127.0.0.1   sampark.gov.in
-127.0.0.1   euoqok9sadxc07zmswsuupgmcjmjyhc.info.inboxli.us
-127.0.0.1   inboxli.us
-127.0.0.1   dfyve0bnu.us
-127.0.0.1   j1tk9660.us
-127.0.0.1   gebvpscnfsyelp.com
-127.0.0.1   xxnclpeoglyelp.com
-127.0.0.1   jvia489o0h1z9n4nkfta.us
-127.0.0.1   digitaltelemarketinghub.com
-127.0.0.1   betterdetails.net
-127.0.0.1   DecadeCompany.com
-127.0.0.1   atmosphereoutside.com
-127.0.0.1   toptravelsagency.com
-127.0.0.1   8botruck.com
-127.0.0.1   kdptphhg-o.8botruck.com
-127.0.0.1   your-server.de
-127.0.0.1   startdedicated.com
-127.0.0.1   mydealz.de
-127.0.0.1   cecwkyiipqyelp.com
-127.0.0.1   urlz.fr  			### another dubious url shortner service
-127.0.0.1   dnchvzhtu.us
-127.0.0.1   oneubag.com
-127.0.0.1   cgyfoxoeg.us
-127.0.0.1   f1w9vn3pe.us
-127.0.0.1   mfz1finfg.us
-127.0.0.1   gld9754u.us
-127.0.0.1   pdr8-services-05v.prod.gld9754u.org
-127.0.0.1   enr2-mrelay-01.gld9754u.org
-127.0.0.1   gld9754u.org
-127.0.0.1   01vnzalygz5374zs6d9v.edu
-127.0.0.1   vm-jhaller1.olypen.com
-127.0.0.1   olypen.com
-127.0.0.1   academia.edu
-127.0.0.1   sweet-page.com
-127.0.0.1   vevida.net
-127.0.0.1   ltpri02.alpha-lt.net
-127.0.0.1   alpha-lt.net
-127.0.0.1   d3q1c9nvs58quz87bkg7.us
-127.0.0.1   ifba.edu.br
-127.0.0.1   y09djk2l.us
-127.0.0.1   clt1094496.benchurl.com
-127.0.0.1   benchurl.com
-127.0.0.1   475h1roab.us
-127.0.0.1   hqpovcy7v.us
-127.0.0.1   2w2crwgyb.us
-127.0.0.1   klpn0tpmz.us
-127.0.0.1   8dwmht2nk.us
-127.0.0.1   ehg3ri8aw.us
-127.0.0.1   tomwysocki.com
-127.0.0.1   rinaskitchenette.com
-127.0.0.1   mydhl.express.dhl
-127.0.0.1   express.dhl
-127.0.0.1   infosale.info
-127.0.0.1   isrvenvia.com
-127.0.0.1   mnklhiih.drivefact.org
-127.0.0.1   drivefact.org
-127.0.0.1   oxqvq5qfvqsymyqjis.drivefact.org
-127.0.0.1   g8a1fg7d1.us
-127.0.0.1   czgs56uwm5nq3ho9xdv6.us
-127.0.0.1   kantar-online.com
-127.0.0.1   de-ohio-kantar-web002.decipherinc.com
-127.0.0.1   decipherinc.com
-127.0.0.1   grpitsrv.com
-127.0.0.1   t2.ktrmr.com
-127.0.0.1   ktrmr.com
-127.0.0.1   urldefense.proofpoint.com
-127.0.0.1   proofpoint.com
-127.0.0.1   www.millwardbrown.com
-127.0.0.1   millwardbrown.com
-127.0.0.1   gbpmxisjt.us
-127.0.0.1   4203u562.us
-127.0.0.1   548gs21w.us
-127.0.0.1   pdr8-services-05v.prod.548gs21w.org
-127.0.0.1   548gs21w.org
-127.0.0.1   mysarewardss.net
-127.0.0.1   ParklandCompany.com
-127.0.0.1   pressureinside.com
-127.0.0.1   8jcpiq4vzln.ticket.st
-127.0.0.1   ticket.st
-127.0.0.1   acc083.sportinsider.info
-127.0.0.1   sportinsider.info
-127.0.0.1   t2iafj7xm.us
-127.0.0.1   ilpd7izf9.us
-127.0.0.1   6ppqe1icz.us
-127.0.0.1   dbfmjcsfw.us
-127.0.0.1   7pk0ogoix.us
-127.0.0.1   disparadoremm.com
-127.0.0.1   jtb.com
-127.0.0.1   26h.contactopportunities.com
-127.0.0.1   contactopportunities.com
-127.0.0.1   numerousinstant.press
-127.0.0.1   atym5mseu.us
-127.0.0.1   pdr8-services-05v.prod.Atym5mseU.org
-127.0.0.1   Atym5mseU.org
-127.0.0.1   qsywdo10c.us
-127.0.0.1   kcafu5yyc.us
-127.0.0.1   2b0hmxygc.us
-127.0.0.1   nsgjhhc7e.us
-127.0.0.1   etwnxfwk-o.8botruck.com
-127.0.0.1   0eh4hmprm.us
-127.0.0.1   sampark.gov.in
-127.0.0.1   jan-sampark.nic.in
-127.0.0.1   39wfg431.us
-127.0.0.1   darttags.net
-127.0.0.1   maaani.johnsonrichards.onmicrosoft.com
-127.0.0.1   activelypartnering.com
-127.0.0.1   interpretedbyservices.com
-127.0.0.1   yourfavoriteshoes.co.uk
-127.0.0.1   informationspeed.co.uk
-127.0.0.1   techniquescreatingradiant.com
-127.0.0.1   processfindcuriosity.org.uk
-127.0.0.1   bestresponseprocess.org.uk
-127.0.0.1   yourfavoriteresearchs.org.uk
-127.0.0.1   allfascinatingprocesses.org.uk
-127.0.0.1   thinkingtips.live
-127.0.0.1   developingideas.live
-127.0.0.1   littletimecleaning.name
-127.0.0.1   topmindfulchallenge.name
 
 
-#########   2019-11-01  -- playing whackamole with spammers, sigh
-###-------------------
-127.0.0.1   rescuetime.com ### because they spammed hacker news 
-127.0.0.1	4s5n2ti25j8yp8kzd3fldaj8w36zy9le.drivefact.org
-127.0.0.1	05wu0fsnx.us
-127.0.0.1	22q458s5.us
-127.0.0.1	dr8-services-05v.prod.22q458s5.org
-127.0.0.1	22q458s5.org
-127.0.0.1	b8xkfhnh11fkqfqewctx3atjwbvvyl.us
-127.0.0.1	9jad6spyf.us
-127.0.0.1	8iugzbckg.us
-127.0.0.1	sq0.contactopportunities.com
-127.0.0.1	allthewebnews.com
-127.0.0.1	84k.affpartners.com
-127.0.0.1	affpartners.com
-127.0.0.1	smtp.7liM4H7U6x.org
-127.0.0.1	7liM4H7U6x.org 
-127.0.0.1	hh2vr9k6.us
-127.0.0.1	flttiyfb.drivefact.org
-127.0.0.1	ndqgjw02x.us
-127.0.0.1	qckmgfx8j.us
-127.0.0.1	q2t9omil.us
-127.0.0.1	xjvaonwq6.us
-127.0.0.1	xbwg55e2d78tfcry9av7.us
-127.0.0.1	ytjijchew.us
-127.0.0.1	cfeig8etc.us
-127.0.0.1	rzr5vq76g.us
-127.0.0.1	dwicwvak0.us
-127.0.0.1	jeedvl2ex.us
-127.0.0.1	qyqngqqjr.us
-127.0.0.1	hq4lhy32p.us
-127.0.0.1	vtwmbhqmo.us
-127.0.0.1	vtwmbhqmo.org
-127.0.0.1	vrq8anekp.us
-127.0.0.1	vrq8anekp.org
-127.0.0.1	8rjrmkzhl.us
-127.0.0.1	ebgqapt2l.us
-127.0.0.1	e7ntsvx3j.us
-127.0.0.1	jtb.com
-127.0.0.1	7u2b2ycvr43ett.wed7-f7c1.ccnjgblm.tk
-127.0.0.1	ccnjgblm.tk
-127.0.0.1	mzrbm3c1uok07mg2bei5.us
-127.0.0.1	2emc2rmxg.us
-127.0.0.1	psmgvvzi.drivefact.org
-127.0.0.1	ugaot29sc.us
-127.0.0.1	5s3uifup2.us
-127.0.0.1	q1mlurrcx.us
-127.0.0.1	odplqblaz.us
-127.0.0.1	ct4lts7bi.us
-127.0.0.1	xva.contactopportunities.com
-127.0.0.1	nearhistoric.com
-127.0.0.1	jwfiq1tu5.us
-127.0.0.1	v2dyzem4c.us
-127.0.0.1	4fcn1zprn.us
-127.0.0.1	szogtoj7t.us
-127.0.0.1	rq1coudrk.us
-127.0.0.1	4pzaz0j1f.us
-127.0.0.1	dfehdqpor.us
-127.0.0.1	ezjuiy4s.us
-127.0.0.1	educationresourcesforyou.com
-127.0.0.1	ekmqibvri.us
-127.0.0.1	v7otkoimg.us
-127.0.0.1	rqsudmpum.us
-127.0.0.1	rm0m5nqhl.us
-127.0.0.1	0c8fnwuaa.us
-127.0.0.1	tyvo.kffj.mxg
-127.0.0.1	kffj.mxg
+
+
+
+
+
+
 
 ####    alex effing jones' dumpster fire of a site
 ####    a total toolbag imo
@@ -697,21 +301,11 @@
 127.0.0.1	performancebike.com
 127.0.0.1	amain.com
 
-127.0.0.1	pagead2.googlesyndication.com					#### google crap
-127.0.0.1	pagead1.googlesyndication.com
-127.0.0.1	pagead.googlesyndication.com
-127.0.0.1	googlesyndication.com
-127.0.0.1	tpc.googlesyndication.com
-127.0.0.1	adservice.google.com
 
-127.0.0.1   ((^)|(.))g01.msn.com    #### this is pretty aggressive and will likely block msn completely (fck em).
-127.0.0.1   g01.msn.com             #### this is pretty aggressive and will likely block msn completely (fck em).
-127.0.0.1  (^|\.)g01.msn.com
 
 ###
 ### sundry foreign domains
 ###
-
 127.0.0.1   kepmr.zong.com.pk
 
 ####    huawei.com
