@@ -38,6 +38,79 @@
 127.0.0.1   messenger.com 
 127.0.0.1   messenger.net
 
+####    pinterest
+127.0.0.1   pinterest.com
+127.0.0.1   www.pinterest.com
+127.0.0.1   pinimg.com
+127.0.0.1   i.pinimg.com
+127.0.0.1   s.pinimg.com
+127.0.0.1   interest.jp	
+127.0.0.1   interest.es	
+127.0.0.1   interest.ca	
+127.0.0.1   interest.fr	
+127.0.0.1   interest.de	
+127.0.0.1   interest.co.kr
+127.0.0.1   interest.it
+127.0.0.1   pinterest.ru
+127.0.0.1   pinterest.co.uk
+127.0.0.1   pinterest.com.au
+127.0.0.1   pinterest.cl
+127.0.0.1   pinterest.at
+127.0.0.1   pinterest.pt
+127.0.0.1   pinterest.com.mx
+127.0.0.1   pinterest.ch
+127.0.0.1   pinterest.ie
+127.0.0.1   pinterest.se
+127.0.0.1   pinterest.nz
+127.0.0.1   pinterest.ph
+127.0.0.1   instagramelite.org
+127.0.0.1   pin.it
+127.0.0.1   pinterest.dk
+127.0.0.1   pinterest.com.uy
+127.0.0.1   pinterest.com.py
+127.0.0.1   pinterest.co
+127.0.0.1   pinterest.co.nz
+127.0.0.1   pinterest.be
+127.0.0.1   pinterest.hu
+127.0.0.1   pinterest.com.pe
+127.0.0.1   pinterest.kr
+127.0.0.1   pinterest.co.in
+127.0.0.1   pinterest.pe
+127.0.0.1   pinterest.engineering
+127.0.0.1   pinterest.uk
+127.0.0.1   pinterest.com.vn
+127.0.0.1   pinterest.tw
+127.0.0.1   pinterest.mx
+127.0.0.1   pinterest.com.ec
+127.0.0.1   pinterest.biz‐	‐
+127.0.0.1   pinterest.com.bo
+127.0.0.1   pinterest.nl
+127.0.0.1   pinterest.ec
+127.0.0.1   pinterest.id
+127.0.0.1   pinterest.in
+127.0.0.1   pinterest.vn
+127.0.0.1   pinterest.th
+127.0.0.1   pinterest.co.at
+127.0.0.1   pinterest.com.pt
+127.0.0.1   pinterest.info
+127.0.0.1   pinterest-email.com
+127.0.0.1   pinterest-mail.com
+127.0.0.1   pinterest-sales.com
+127.0.0.1   pinterestcareers.com
+127.0.0.1   pinterestmail.com
+127.0.0.1   pintergration.com
+127.0.0.1   pintertools.com
+127.0.0.1   pinttest.com
+127.0.0.1   traeumezimmer.ch
+127.0.0.1   traumezimmer.ch
+127.0.0.1   vorfreude-auf-weihnachten.de
+127.0.0.1   winterhus.ch
+127.0.0.1   xn--trumezimmer-m8a.ch
+
+
+
+
+
 
 #### scorecardresearch.com
 127.0.0.1   sb.scorecardresearch.com
@@ -154,6 +227,10 @@
 127.0.0.1   ask.com
 127.0.0.1   www.ask.com
 
+####    la times
+127.0.0.1   activate.platform.californiatimes.com
+127.0.0.01  ssor.tribdss.com
+127.0.0.01  tribdss.com
 
 ####
 #### crap domains - that shouldn't be allowed to exist
