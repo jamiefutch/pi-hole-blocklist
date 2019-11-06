@@ -1,5 +1,6 @@
 # https://github.com/jamiefutch/pi-hole-blocklist/blob/master/hostblocklist.txt
 # copyright 2019 Jamie Futch
+# opinions in comments are my own
 # blocklist 
 
 #### nexteppe.com - becuase they can eff off
@@ -231,6 +232,49 @@
 127.0.0.1   activate.platform.californiatimes.com
 127.0.0.01  ssor.tribdss.com
 127.0.0.01  tribdss.com
+
+
+#### scummy car dealer stuff
+127.0.0.1   pearlprox.com
+127.0.0.1   pixel.pearlprox.com
+127.0.0.1   extws.autosweet.com
+127.0.0.1   autosweet.com
+127.0.0.1   plugin.tradepending.com
+127.0.0.1   cdn.tradepending.com
+127.0.0.1   tradepending.com
+127.0.0.1   icodealers.kbb.com
+127.0.0.1   gubagoo.io
+127.0.0.1   cdn.gubagoo.io
+127.0.0.1   fzlnk.com
+127.0.0.1   verify.flickfusion.net
+127.0.0.1   aalnk.com
+127.0.0.1   www.carcodesms.com
+127.0.0.1   carcodesms.com
+127.0.0.1   cdn1.roadster.com
+127.0.0.1   roadster.com
+127.0.0.1   aalnk.com
+127.0.0.1   ref.dealerinspire.com
+127.0.0.1   assets.prod.analytics.dealer.com
+127.0.0.1   prod.analytics.dealer.com
+127.0.0.1   analytics.dealer.com
+127.0.0.1   www.jumpstarttaggingsolutions.com
+127.0.0.1   jumpstarttaggingsolutions.com
+127.0.0.1   phones.ddcplatform.dealer.com
+127.0.0.1   stats.lotlinx.com
+127.0.0.1   lotlinx.com	
+127.0.0.1   pixall.esm1.net
+127.0.0.1   esm1.net
+127.0.0.1   px.marchex.io
+127.0.0.1   rw.marchex.io
+127.0.0.1   snc.marchex.io
+127.0.0.1   marchex.io
+127.0.0.1   service.opticalanalytics.io
+127.0.0.1   opticalanalytics.io
+127.0.0.1   autoleadstar.com
+
+
+
+
 
 ####
 #### crap domains - that shouldn't be allowed to exist
