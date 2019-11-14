@@ -245,6 +245,7 @@
 127.0.0.1   icodealers.kbb.com
 127.0.0.1   gubagoo.io
 127.0.0.1   cdn.gubagoo.io
+127.0.0.1   gubagootracking.com
 127.0.0.1   fzlnk.com
 127.0.0.1   verify.flickfusion.net
 127.0.0.1   aalnk.com
@@ -271,6 +272,12 @@
 127.0.0.1   service.opticalanalytics.io
 127.0.0.1   opticalanalytics.io
 127.0.0.1   autoleadstar.com
+127.0.0.1   dai.autoleadstar.com
+127.0.0.1   pageview.activengage.com
+127.0.0.1   activengage.com
+127.0.0.1   acsbap.com
+127.0.0.1   static.addtoany.com	
+127.0.0.1   addtoany.com
 
 
 

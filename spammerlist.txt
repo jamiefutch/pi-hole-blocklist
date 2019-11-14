@@ -3934,7 +3934,7 @@
 127.0.0.1   merzrjgrb.us
 127.0.0.1   qb4wk9gl5.us
 
-#########   2019-10-25  -- playing whackamole with spammers, sigh
+#########   2019-10-25  -- playing whackamole with spammers sigh
 ###-------------------
 127.0.0.1   esinfomedia.com     ### spammer
 127.0.0.1   digitaldirectleads.com
@@ -4039,7 +4039,7 @@
 127.0.0.1   adsnative.com
 127.0.0.1   0004970.xyz
 
-#########   2019-10-27  -- playing whackamole with spammers, sigh
+#########   2019-10-27  -- playing whackamole with spammers sigh
 ###-------------------
 ### considering blocking the entire gd .us tld - mostlly spam as far as i can tell
 127.0.0.1   syp.affpartners.com
@@ -4079,7 +4079,7 @@
 127.0.0.1   ot6agcfym.us
 127.0.0.1   61627g2f.us
 
-#########   2019-10-31  -- playing whackamole with spammers, sigh
+#########   2019-10-31  -- playing whackamole with spammers sigh
 ###-------------------
 127.0.0.1   9vckazte.us
 127.0.0.1   vvknx.emails.turbine.com
@@ -4202,7 +4202,7 @@
 127.0.0.1   littletimecleaning.name
 127.0.0.1   topmindfulchallenge.name
 
-#########   2019-11-01  -- playing whackamole with spammers, sigh
+#########   2019-11-01  -- playing whackamole with spammers sigh
 ###-------------------
 127.0.0.1   rescuetime.com ### because they spammed hacker news 
 127.0.0.1	4s5n2ti25j8yp8kzd3fldaj8w36zy9le.drivefact.org
@@ -4511,3 +4511,23 @@
 127.0.0.1   g-deai.com
 127.0.0.1   axekhjfi.drivefact.org
 127.0.0.1   shlpnyn0w.us
+
+#### 2019-11-14
+127.0.01	8jcpiq6gzlf.moinhosantaclara.com.br
+127.0.01	moinhosantaclara.com.br
+127.0.01	juliobattisti.com.br
+127.0.01	interpretedbyservices.com
+127.0.01	activelypartnering.com
+127.0.01	informationspeed.co.uk
+127.0.01	yourfavoriteshoes.co.uk
+127.0.01	techniquescreatingradiant.com
+127.0.01	processfindcuriosity.org.uk
+127.0.01	bestresponseprocess.org.uk
+127.0.01	yourfavoriteresearchs.org.uk
+127.0.01	yourbestresponse.org.uk
+127.0.01	allfascinatingprocesses.org.uk
+127.0.01	info@thinkingtips.live
+127.0.01	reply@developingideas.live
+127.0.01	support@littletimecleaning.name
+127.0.01	contact@topmindfulchallenge.name
+127.0.01	itlgopk.uk
