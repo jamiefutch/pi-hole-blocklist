@@ -230,8 +230,10 @@
 
 ####    la times
 127.0.0.1   activate.platform.californiatimes.com
-127.0.0.01  ssor.tribdss.com
-127.0.0.01  tribdss.com
+127.0.0.1  ssor.tribdss.com
+127.0.0.1  tribdss.com
+
+127.0.0.1   b9fmk.info      ### bullshit site used by smishers - sms phishers for walmart giftcard scams
 
 
 #### scummy car dealer stuff
