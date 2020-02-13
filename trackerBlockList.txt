@@ -340,3 +340,7 @@
 127.0.0.1   95fafb9db50580310d815a313c07c299.clo.footprintdns.com
 127.0.0.1   footprintdns.com
 127.0.0.1   i.mol.im
+127.0.0.1   oo-syringe.com
+127.0.0.1   assets.oo-syringe.com
+127.0.0.1   entertainmentforus.com
+127.0.0.1   ariticle.entertainmentforus.com
