@@ -67,6 +67,7 @@
 127.0.0.1   ne.jp
 127.0.0.1   addroplet.com
 127.0.0.1   addthis.com
+127.0.0.1   s7.addthis.com
 127.0.0.1   adentifi.com
 127.0.0.1   adform.net
 127.0.0.1   adfox.ru
