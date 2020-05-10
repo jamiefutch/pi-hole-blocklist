@@ -362,3 +362,8 @@
 127.0.0.1	onesignal.com
 127.0.0.1	ps.l.admedo.com
 127.0.0.1	neuro-times.com
+127.0.0.1	www.npttech.com
+127.0.0.1	npttech.com
+127.0.0.1	int.accounts.marketwatch.com
+127.0.0.1	accounts.marketwatch.com
+127.0.0.1	sso.accounts.marketwatch.com
