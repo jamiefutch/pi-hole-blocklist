@@ -345,3 +345,20 @@
 127.0.0.1   assets.oo-syringe.com
 127.0.0.1   entertainmentforus.com
 127.0.0.1   ariticle.entertainmentforus.com
+
+# added 2020-05-08-01
+127.0.0.1	cdn.adsafeprotected.com
+127.0.0.1	adsafeprotected.com
+127.0.0.1	sb.scorecardresearch.com
+127.0.0.1	scorecardresearch.com
+127.0.0.1	cdnapisec.kaltura.com
+127.0.0.1	kaltura.com
+127.0.0.1	cfvod.kaltura.com
+127.0.0.1	code.jquery.cdn.behindcorona.com
+127.0.0.1	as.jivox.com
+127.0.0.1	jivox.com
+127.0.0.1	go-mpulse.net
+127.0.0.1	newsmaxfeednetwork.com
+127.0.0.1	onesignal.com
+127.0.0.1	ps.l.admedo.com
+127.0.0.1	neuro-times.com
