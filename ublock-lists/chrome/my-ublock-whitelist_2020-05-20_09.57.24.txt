@@ -1,0 +1,29 @@
+about-scheme
+chrome-extension-scheme
+chrome-scheme
+# edge-scheme
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+# wyciwyg-scheme
+accounts.creditkarma.com
+analytics.google.com
+business.avast.com
+detectify.com
+directvnow.com
+floydsofleadville.com
+hallcountytax.org
+help.distilnetworks.com
+help.pingdom.com
+loopconversation.about-scheme
+loyalhealth.sharefile.com
+store.comodoca.com
+support.logmeininc.com
+www.att.com
+www.expensify.com
+www.gaguaranty.com
+www.hexnode.com
+www.tesla.com
+www.ticketmaster.com
+www.wrike.com
+www1.ticketmaster.com

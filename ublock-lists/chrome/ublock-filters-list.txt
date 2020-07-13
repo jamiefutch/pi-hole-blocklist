@@ -1,0 +1,36 @@
+eproof.drudgereport.com
+http://vsu.edu/files/images/meganav/Welcome.*
+
+! 10/28/2019 https://historynewsnetwork.org
+historynewsnetwork.org##.mc-layout__modalContent > [src="about:blank"]
+
+! 10/28/2019 https://www.buzzfeednews.com
+www.buzzfeednews.com###mod-support-cta-1
+
+! 3/5/2020 https://www.usatoday.com
+www.usatoday.com##.gnt_em_vp_c
+
+! 4/3/2020 https://www.dailymail.co.uk
+www.dailymail.co.uk##[href^="https://www.newzit.com/"]
+
+! 4/8/2020 https://nypost.com
+nypost.com##.modal-inner
+||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=%23nyp-piano-flyout&templateId=OTFIKCD0SB0Y&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAF2QW08CMRCF_0ufKWm729LyxmUFNEoERfHFtLvDUly6m91yMcb_biFegvMymfnOOZnMB9I2Q110O1Z3QzfbMINaqNI5LCwcJifCCCOYxJhITDlmHUxEGGPsetNR30-ycnM9eS_HAispCDDQEuIoNYanRAgtBUgTSRA6DcFwrKC24FI4RyfPj8vk8Ybcj2fzC5ocId15W7qzjEoiLeRkFe4IxRpdS72WHHJBac4q4P6NXPh76a_5tqyddfnrDKqy9kG11s0DbKtCe0BdX--ghfz3fDZMH64mN4MhmffJEv2xha6tdv4kcbuiaKFUbyttc9f8LPa2sWeO9vjf0yLMFVadGE-f5oPI5C7ZyGLE1QumypBUaa5Cz4Rhq5VRUmWGdbRQEYvDBbYKkZy1qRRtyuI2JVHY7hqoezk4H2B2OD3X-wJ1KZciFiRm_PML8drU0dsBAAA&experienceId=EXUYEUK0QHRS&activeMeters=%5B%7B%22meterName%22%3A%222nd+PV+%3E+Show+every+3+PVs+%3E+After+4th+Rotation%2C+Reset+after+1+week%22%2C%22views%22%3A2%2C%22viewsLeft%22%3A10%2C%22maxViews%22%3A12%2C%22totalViews%22%3A2%7D%5D&tbc=%7Bjzx%7DbOREsfUR6SMcRp5niCu4X_v8LU-oxKEgQGKkgtHGejI0w8L_TqSGd6yrOzCzFwQ2bn90XpsaI7QYmKG2VpVmomL_Vt9QVKbHP58ELrI8Rou0qW64vZPJ1m$subdocument
+
+! 4/8/2020 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com###google-one-tap-container
+samizdat-graphql.nytimes.com/graphql/v2
+
+! 4/10/2020 https://www.thedailybeast.com
+||buy.tinypass.com/checkout/template/show?displayMode=modal&templateId=OTW86LULJFGE&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2QTXOCMBCG_0vOxklC-NCbrUh1bG0HtOotkAgpCAwE0Xb63xuY2o4zPXQvO7vPvu_s7gdgkoMx8Ktj4PFt-1SAAShZLDZStPOOEEQQRBRiBLENkQkRgbZOND1cpBsnu_AyududLGgeDHNE2Qhz0xhhyjgyIiosJkY2FVFoa2NxLkUlRR6J3trd-vv51N6tX_znG-qeRdQoWeT9GHaQ8-bEiKcQ6SB1aCpqpA6KTN6UXNlGmKc3-kn0I66Tog3EscyYEgtvMXucLldW8HBPDK1IWH1lYKyqRgyA-q578Sp4dazlermYeS74ZRtWSZarbiRvsmwAInYsmYzz-to4yVr2HJzgnw_UhZ94yvALuqZnwrbv-_88UJba0iRD7FhDTOgQo-6MphbVJBa50pC3UbepysAYm45laSdEPr8AAbkxoecBAAA&experienceId=EXSZID7YUQSP&tbc=%7Bjzx%7D6IEwEmVVpk2IztC48bSVYiLZvqtQ_vR0ZdLADGzb0Im5EgLaAT_ozsx8uSpyCnVUbZpHzJXw6Wv-QW0munjsLjdk-nSu696UKOoqoF3V9jIHb4OSZMi6XVnPHfZ8LvZDNuocILhq4hXpagC26VdoOQ&iframeId=offer-1-HXe9K&url=https%3A%2F%2Fwww.thedailybeast.com%2Fheres-where-coronavirus-hides-in-your-body&parentDualScreenLeft=249&parentDualScreenTop=1&parentWidth=1527&parentHeight=1017&parentOuterHeight=1137&aid=SrmTGdXwNo&tags=m$subdocument
+
+! 4/23/2020 https://www.aedaily.net
+www.aedaily.net##.adblock-warning.overlay--light.overlay
+
+! 4/28/2020 https://apnews.com
+apnews.com##.tp-modal
+||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=.piano-below-article-container&templateId=OT72WJC2QGUD&templateVariantId=OTVCTH65UT87B&offerId=fakeOfferId&showCloseButton=true&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2QSW_CMBCF_4vPBNkO8cKNtnShTRdI0uVm7AkY0pAmDkGt-t9r6CJV6qG3mXnfezOaN6SsQUPUdUdRWqwykqIeqtQCMgvdxV6hmOIADwIqAuILGWDsaxnEJ_E0Yq-a15er2eY-DYyWOTBjGGO5ZJwLY9Sc41BKow0OqQ-GXQW1hVLDIXr8EJ9JPj0di8fklzregW6d3ZQHjAgc5ZHAufC7MaYNkPBF12vdrAtYG1UO5m7zyz_SP-ZmuemuoWsKcA7qmV2UbUWf5OSWyJjx7OqRn3jrUjUJPFeFcoCGrm6hh9xXf0i5STi9nxzTu7N0j39rmaqtKt0Xkh0n5yxKE8GPPKPVc6X8ugYNy7YoemhrG_uJboM_nyppkM6vFpzNtjdyVeRP8et_nmorHxnRPhGsT-igT3Dop20D9WgBpfOi6fT-aFegIYmEIEyGA_z-AfwHrWL7AQAA&experienceId=EXMG97RFE8YT&mailingListIds=%5B500%5D&siteId=118&tbc=%7Bjzx%7DQV8DDbBWKN5ZNz8AuWHv8HadTL5TJdlmuCEKLsiFA9L-fsR7S3ruNRknHbDH_utE4lxkXZTH2MCAQHPX1uoTAtZSVDQRkKcLbXG8FSADDd9ekvW9q0A92YFDBkiTB7buXNJ0QZOPQfI6fJQQqy4S6A&iframeId=offer-0-PhECB&url=https%3A%2F%2Fapnews.com%2F4e5a6f3b783b041e91a13c7a5e39713f&paren$subdocument
+
+! 5/15/2020 https://apnews.com
+apnews.com##.tp-active.tp-backdrop
