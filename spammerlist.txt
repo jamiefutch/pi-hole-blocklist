@@ -4549,3 +4549,37 @@
 127.0.0.1	northernhemispheres.com
 127.0.0.1	statesofthings.com
 127.0.0.1	me77kdnfr5lpxnb89pt4.edu
+
+#### 2020-07-20
+127.0.0.1	evlocalisation.nl
+127.0.0.1	www.evlocalisation.nl
+127.0.0.1	ruddle.org
+127.0.0.1	cmpgnr.com
+127.0.0.1	www.cmpgnr.com
+127.0.0.1	itoramidin.com
+127.0.0.1	e.myconsumerbenefits.com
+127.0.0.1	myconsumerbenefits.com
+127.0.0.1	www.myconsumerbenefits.com
+127.0.0.1	bestsummersale.xyz
+
+#### 2020-07-21
+127.0.0.1   wallace-consulting.com
+127.0.0.1   www.wallace-consulting.com
+127.0.0.1   scimitaremails.com
+127.0.0.1   www.scimitaremails.com
+127.0.0.1   csrhi.prowoof.org
+127.0.0.1   prowoof.org
+127.0.0.1   e.myconsumerbenefits.com
+127.0.0.1   myconsumerbenefits.com
+127.0.0.1   www.myconsumerbenefits.com
+127.0.0.1   sampark.gov.in
+127.0.0.1   sophia.qz7c.edu
+127.0.0.1   unaux.com
+127.0.0.1   desirensvilla.com
+127.0.0.1   wwwdesirensvilla.com
+127.0.0.1   SportsandCasino.com
+127.0.0.1   www.SportsandCasino.com
+127.0.0.1   lltlme.drivefact.org
+127.0.0.1   drivefact.org 
+127.0.0.1   fleetaccess.nl
+127.0.0.1   www.fleetaccess.nl
