@@ -367,3 +367,41 @@
 127.0.0.1	int.accounts.marketwatch.com
 127.0.0.1	accounts.marketwatch.com
 127.0.0.1	sso.accounts.marketwatch.com
+
+# added 2020-09-14
+127.0.0.1	summerhamster.com
+127.0.0.1	www.summerhamster.com
+127.0.0.1	static.ads-twitter.com
+127.0.0.1	cdn.adsafeprotected.com
+127.0.0.1	static.adsafeprotected.com
+127.0.0.1	c.amazon-adsystem.com
+127.0.0.1	bidr.io
+127.0.0.1	match.prod.bidr.io
+127.0.0.1	boomtrain.com
+127.0.0.1	onsiterecs.api.boomtrain.com
+127.0.0.1	cdn.boomtrain.com
+127.0.0.1	casalemedia.com
+127.0.0.1	as-sec.casalemedia.com
+127.0.0.1	htlb.casalemedia.com
+127.0.0.1	ssum-sec.casalemedia.com
+127.0.0.1	chartbeat.com
+127.0.0.1	mab.chartbeat.com
+127.0.0.1	static.chartbeat.com
+127.0.0.1	segment-data-us-east.zqtk.net	
+127.0.0.1	zqtk.net	
+127.0.0.1	slingtv.hrzn-nxt.com
+127.0.0.1	hrzn-nxt.com
+127.0.0.1	sofia.trustx.org
+127.0.0.1	trustx.org
+127.0.0.1	static.ads-twitter.com
+127.0.0.1	ads-twitter.com
+127.0.0.1	tru.am
+127.0.0.1	vast.extremereach.io
+127.0.0.1	extremereach.io
+127.0.0.1	js-sec.indexww.com
+127.0.0.1	indexww.com
+127.0.0.1	i.clean.gg
+127.0.0.1	clean.gg
+127.0.0.1	cdn.cookielaw.org
+127.0.0.1	cookielaw.org
+
