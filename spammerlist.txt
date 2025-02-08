@@ -3675,9 +3675,6 @@
 127.0.0.1	xperiae5.com
 127.0.0.1	xrho.com
 127.0.0.1	xvx.us
-127.0.0.1	xwaretech.com
-127.0.0.1	xwaretech.info
-127.0.0.1	xwaretech.net
 127.0.0.1	xww.ro
 127.0.0.1	xxhamsterxx.ga
 127.0.0.1	xxi2.com
